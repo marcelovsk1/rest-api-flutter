@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:http_methods/user.dart';
 import 'package:rest_api/app_button.dart';
 import 'package:rest_api/base_client.dart';
+import 'package:rest_api/user.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -26,7 +26,7 @@ class HomePage extends StatelessWidget {
                   debugPrint('successful:');
 
                   var users = userFromJson(response);
-                  debugPrint('Users count: ' + users.length.toString());
+                  debugPrint('Users count: ${users.length}');
                 },
               ),
               AppButton(
