@@ -1,3 +1,5 @@
+import 'dart:convert';
+
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
@@ -9,6 +11,8 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
+  List<dynamic> events = [];
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -21,10 +25,13 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
-  void fetchEvents() {
+  Future<void> fetchEvents() async {
     print('fetchEvents called');
-    const url = '';
+    const url = 'http://127.0.0.1:5500/APIs/Facebook_Events/facebook.json';
     final uri = Uri.parse(url);
     http.get(uri);
+    final response = await http.get(uri);
+    final body = response.body;
+    jsonDecode(body);
   }
 }
