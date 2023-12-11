@@ -19,15 +19,16 @@ class User {
   String? id;
   List<Qualification>? qualifications;
 
-  factory User.fromJson(Map<String, dynamic> json) => User(
-        createdAt: DateTime.parse(json["createdAt"]),
-        name: json["name"],
-        avatar: json["avatar"],
-        id: json["id"],
-        qualifications: json["qualifications"] != null
-            ? List<Qualification>.from(json["qualifications"].map((x) => Qualification.fromJson(x)))
-            : [],
-      );
+ factory User.fromJson(Map<String, dynamic> json) => User(
+      createdAt: DateTime.parse(json["createdAt"]),
+      name: json["name"] ?? "", // Trata o campo nulo como uma string vazia
+      avatar: json["avatar"],
+      id: json["id"],
+      qualifications: json["qualifications"] != null
+          ? List<Qualification>.from(json["qualifications"].map((x) => Qualification.fromJson(x)))
+          : [],
+    );
+
 
   Map<String, dynamic> toJson() => {
         "name": name,

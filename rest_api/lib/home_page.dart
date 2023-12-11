@@ -19,21 +19,20 @@ class HomePage extends StatelessWidget {
               AppButton(
                 operation: 'GET',
                 operationColor: Colors.lightGreen,
-                description: 'Fetch users',
+                description: 'Fetch Events',
                 onPressed: () async {
-                  var user = User();
-                  var response = await BaseClient().get('/users', user).catchError((err) {});
+                  var response = await BaseClient().get('/users').catchError((err) {});
                   if (response == null) return;
                   debugPrint('successful:');
 
                   var users = userFromJson(response);
-                  debugPrint('Users count: ${users.length}');
+                  debugPrint('Users count: ' + users.length.toString());
                 },
               ),
               AppButton(
                 operation: 'POST',
                 operationColor: Colors.lightBlue,
-                description: 'Add user',
+                description: 'Add Event',
                 onPressed: () async {
                   var user = User(
                     name: 'Afzal Ali',
@@ -50,7 +49,7 @@ class HomePage extends StatelessWidget {
               AppButton(
                 operation: 'PUT',
                 operationColor: Colors.orangeAccent,
-                description: 'Edit user',
+                description: 'Edit Event',
                 onPressed: () async {
                   var id = 2;
                   var user = User(
@@ -68,7 +67,7 @@ class HomePage extends StatelessWidget {
               AppButton(
                 operation: 'DEL',
                 operationColor: Colors.red,
-                description: 'Delete user',
+                description: 'Delete Event',
                 onPressed: () async {
                   var id = 2;
                   var response = await BaseClient().delete('/users/$id').catchError((err) {});
