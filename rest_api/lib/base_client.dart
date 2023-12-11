@@ -8,7 +8,7 @@ class BaseClient {
   var client = http.Client();
 
   // GET
-  Future<dynamic> get(String api) async {
+  Future<dynamic> get(String api, User user) async {
   var url = Uri.parse(baseUrl + api);
   var _headers = {
     'Authorization': 'Bearer sfie328370428387=',
