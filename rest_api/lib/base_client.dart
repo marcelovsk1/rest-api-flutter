@@ -1,4 +1,5 @@
 import 'package:http/http.dart' as http;
+import 'package:rest_api/user.dart';
 
 const String baseUrl = 'https://631c37911b470e0e12fcdd0b.mockapi.io/api';
 
@@ -21,10 +22,10 @@ class BaseClient {
     }
   }
 
-  Future<dynamic> post(String api) async {
+  Future<dynamic> post(String api, User user) async {
 
   }
-  Future<dynamic> put(String api) async {
+  Future<dynamic> put(String api, User user) async {
 
   }
   Future<dynamic> delete(String api) async {

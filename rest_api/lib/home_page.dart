@@ -21,7 +21,8 @@ class HomePage extends StatelessWidget {
                 operationColor: Colors.lightGreen,
                 description: 'Fetch users',
                 onPressed: () async {
-                  var response = await BaseClient().get('/users').catchError((err) {});
+                  var user = User();
+                  var response = await BaseClient().get('/users', user).catchError((err) {});
                   if (response == null) return;
                   debugPrint('successful:');
 
