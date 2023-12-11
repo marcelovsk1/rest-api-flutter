@@ -32,6 +32,10 @@ class _HomeScreenState extends State<HomeScreen> {
     http.get(uri);
     final response = await http.get(uri);
     final body = response.body;
-    jsonDecode(body);
+    final json = jsonDecode(body);
+    setState(() {
+      events = json['results'];
+    });
+    print('fetchEvents completed');
   }
 }
