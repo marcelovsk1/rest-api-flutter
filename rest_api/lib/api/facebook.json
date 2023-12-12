@@ -1,0 +1,838 @@
+{
+  "range": "'Página1'!A1:Z1000",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "Event Title",
+      "Date",
+      "Location",
+      "People interested",
+      "URLs",
+      "Image"
+    ],
+    [
+      "09/03 - Forró de Mané - musique brésilienne à Montréal",
+      "SAT, MAR 9, 2024 AT 8:00 PM",
+      "The Underground · Montreal, Quebec",
+      "61 interested parties · 5 will attend",
+      "https://www.facebook.com/events/6576313022495119/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/400481128_245089505232275_6394719570652429871_n.jpg?stp=c0.39.619.296a_dst-jpg_p552x414&_nc_cat=106&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeGe_ujGgeGl8VVOHCL5KBjLrp3zdGPuHhGunfN0Y-4eEaqp-3_eyoYWoriqjfE9zvBNXPq1YWkG6idtk9oNWDSC&_nc_ohc=4vY0iy0ThU0AX9qfkOn&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAjJDnH-6Vh_HE2prU7hMfLbwqkHb_fiN-EfKSflVqchA&oe=65744BB4"
+    ],
+    [
+      "BOWIEMAS! David Bowie Tribute Night at Bar Le Ritz",
+      "FRI, DEC 15 AT 11:00 PM PST",
+      "Bar Le Ritz PDB",
+      "351 interested parties · 12 will attend",
+      "https://www.facebook.com/events/1042416310367623/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/405800498_375828891454485_8645868579261886250_n.jpg?stp=c0.18.618.295a_dst-jpg_p235x350&_nc_cat=103&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEeUUxhEHujGhlnABrVVkpdDyIr05YcOdYPIivTlhw51s8jGfTpcCZdkzLtn4ajUssPZgu4ohg3UNkJJOAye-SZ&_nc_ohc=p0W4vsrUOJkAX81m3BY&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDFuf_NlPFLOIwKJggQEDe0u8b4vnJpppi9w05LCo7jbg&oe=6573C892"
+    ],
+    [
+      "TAUTUKTAVUK (WHAT WE SEE) – Montreal premiere with director Lucy Tulugarjuk & Alanis Obomsawin",
+      "MON, DEC 11 AT 7:00 PM EST",
+      "Cinema Politics Concordia",
+      "896 interested parties · 80 will attend",
+      "https://www.facebook.com/events/1029316305073291/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/404376024_783794773761090_2725895977766773242_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=103&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeGKDvkZadhtJAJUVq_1aVtR2VYlo0p2JrHZViWjSnYmsd35t_Zs3_PMGMZxQdEHGrTy8wOJbjtXN0eB4heX9Orx&_nc_ohc=jzemTnUm4h0AX_pWGpD&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDnmSnavSKV8Wzi2wr1C4z__I7VhIOhGwGlvW63gqEfEA&oe=65746D4F"
+    ],
+    [
+      "Hidden Garden presents: Oasis Sonore",
+      "SAT, DEC 9 TO DEC 10",
+      "Pub ETS Sans Genies",
+      "225 interested parties · 82 will attend",
+      "https://www.facebook.com/events/858417232584592/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/401480227_756503999807885_3782731495622966372_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=101&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeGX9_Gd2gKctz40hQ-zPD1eEoSf9JiPFQAShJ_0mI8VAO9yEFSQfhg3GccVAYPHJuDjmz5GZEuS85WHDTf5VA59&_nc_ohc=kJ1qKmLrhy4AX94UjuU&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDng_c6gXecED7XmUhFh27Km5XS5N0wvALf4XXL2QGlIg&oe=6573FDDE"
+    ],
+    [
+      "Interstellar - Private IMAX movie screening (Montreal) CONFIRMED",
+      "SAT, DEC 9 AT 9:30 AM EST",
+      "Scotiabank Cinema",
+      "1,300 interested parties · 158 will attend",
+      "https://www.facebook.com/events/273823881783132/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/380484958_2681022165374191_8575332042230257213_n.jpg?stp=c0.8.617.295a_dst-jpg_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeGK3OobvViHqFr8yf8tDQqtCeAxeSTs5q0J4DF5JOzmraRuewGeuEg05V-GjYWD9yVB3FOetnk_0Uzk8E4kS6Pw&_nc_ohc=7DRtKExq_OIAX_eT1pC&_nc_ht=scontent-yyz1-1.xx&oh=00_AfC_LLYD24OBPh63CVFYk_2agRizK4j9RmAZogA1Fxf41w&oe=657379EC"
+    ],
+    [
+      "They Go Low, We Go Laugh: Goodbye!",
+      "WHO, 7 FROM FIRST TO 7:00 PM EST",
+      "The Diving Bell Social Club / Club Social Le Scaphandre",
+      "91 interested parties · 27 will attend",
+      "https://www.facebook.com/events/657663623227578/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/399642028_370567221989560_6629165262353316406_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=104&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeGtuh7itk9IY1KyszV8zmgT5X4f2EoGro_lfh_YSgauj3cBZb4OIotqLFeUQd8go-tf2fO1BvO72zklVO-0MGYp&_nc_ohc=8mGsYAi0seMAX9wL0D7&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAfBpUW_T_cO0f0SQQXuve8MjcfeEGUK4CLO9BFHrAuCQ&oe=65745889"
+    ],
+    [
+      "OPEN STUDIO 2023",
+      "SAT, DEC 9 AT 11:00 PST",
+      "Lachine Canal Complex",
+      "106 interested parties · 22 will attend",
+      "https://www.facebook.com/events/1023023212255755/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/402189644_755524469946583_317007858764807249_n.jpg?stp=c0.58.640.305a_dst-jpg_p480x480&_nc_cat=102&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeH_5s9EomqrwiFvtyvE2QECnw0xPudNXa2fDTE-501drSW9kOecSavH0urHnHUhxUCEoeebJ8vufzY20x-nHuxe&_nc_ohc=JXOO2_7wiY8AX_KoqsG&_nc_oc=AQnDAMovwzMdTnDeICtM_SB3hwe7yMpOzz92Wvj6A1NYOjbdy-q4uqhCmF5TqIE-sYo&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBwGlr3lnbcotPknkrHZRuvu7cUhekyQyflkQfR5d1mpg&oe=657525DC"
+    ],
+    [
+      "Fully Serving ～ Fully Accepting",
+      "SUN, DEC 10 AT 4:00 PM EST",
+      "Montreal",
+      "107 interested parties · 8 will attend",
+      "https://www.facebook.com/events/332855622788978/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/405664145_348039787832760_3131835058310862714_n.jpg?stp=c0.39.621.296a_dst-jpg_p552x414&_nc_cat=108&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEcLM5R3Qt8xpQTurt3Gw7TWwj1e436boxbCPV7jfpujEj-HDJ0EWvWhQo1krGUePhwX2SWzP5TvQloAbc_JY8u&_nc_ohc=3oGwu5ZaincAX-kgftB&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDRmSma4sq6JaepUxzjQktB2Lua1V58wPAe5ed8eaItmg&oe=657467B0"
+    ],
+    [
+      "Hashimoto • Casa del Popolo",
+      "WED, DEC 6 AT 8:00 PM EST",
+      "House of the People",
+      "92 interested parties · 16 will attend",
+      "https://www.facebook.com/events/902342764845332/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/402017421_884498683483819_6882675501173621844_n.jpg?stp=c0.58.640.305a_dst-jpg_p480x480&_nc_cat=109&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeFivzvJdEGbnNAmC5hzxpWeuexhBL-FZSK57GEEv4VlIu8SEkYl2J2y2aYrEWVnqLnGfhBWB4BsmkHAhRsDuEaf&_nc_ohc=JkhGFN1AgiwAX-CwiFj&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBkCnZBzdeAbAQMAjJR9SNi91Is9kLGdeHND39cBhldnw&oe=65754515"
+    ],
+    [
+      "The Masquerade Ball",
+      "MON, JAN 1, 2024 AT 8:00 PM EST",
+      "1234 Rue de la Montagne, 1234 Rue de la Montagne, Montreal, Quebec",
+      "195 interested parties · 32 will attend",
+      "https://www.facebook.com/events/320243007394367/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/400265061_3732684330352271_2137044360262120271_n.png?stp=c0.5.640.305a_dst-png_p320x320&_nc_cat=109&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeFPg7nlJ2TzDVLuMN3XZBNclUvMgg3y68aVS8yCDfLrxrJX70gikjFcwPtDOmKBKMHkrmXUztfdTKJTKbPVyLIc&_nc_ohc=pUKGV2kkrjEAX9recof&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCg6TDI3PDvBxcssuknyJURcVZgnm56Jr347WTkVeD3dg&oe=65740710"
+    ],
+    [
+      "Drowning In Blood/Bonded By Strength/Exorcist @ Traxide Dec 8",
+      "FRI, DEC 8 AT 9:00 PM EST",
+      "Traxide · Montreal, Quebec",
+      "126 interested parties · 32 will attend",
+      "https://www.facebook.com/events/870501157728286/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/400265051_321071247343799_4389323240831123425_n.jpg?stp=c0.39.621.296a_dst-jpg_p552x414&_nc_cat=110&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeHZzXCUSKW3Y5Vxfxifq93ghXK0GczRT5OFcrQZzNFPk-T1gKM5UsJvhwMd65IVl-ZYJKCiK9m1f1ijKJwHYz2T&_nc_ohc=sqRM0XY64cEAX-2algA&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCLcAWefbUxhEExZtWLZ-e3DcMMRmqSydPN_vQg69fpdA&oe=6573C88E"
+    ],
+    [
+      "Dance Meditation Montreal, Studio 303 Belgo building",
+      "WED, DEC 6 AT 7:45 PM EST",
+      "Studio 303 · Montreal, Quebec",
+      "11 interested parties · 4 will attend",
+      "https://www.facebook.com/events/260091510239044/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/374763641_811226337673916_1838417425464126283_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=106&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEKnuukqNQYrsUOo4Fy05RWkjS181_SicmSNLXzX9KJycaBbdGyrpgk-v2JsmaT95hKEt03GY5vD6t5xoOY60dm&_nc_ohc=Ev9rT8BXrqUAX_gDmZ6&_nc_ht=scontent-yyz1-1.xx&oh=00_AfB720t4mGacD2dvqxoI8SdL9v6_bPmq3H-KhYm4LOnK7g&oe=6574DEDC"
+    ],
+    [
+      "Hipshot + Bring The Light +Hazy Oak @ Montréal",
+      "FRI, DEC 15 AT 9:00 PM EST",
+      "Turbo Haüs",
+      "75 interested parties · 17 will attend",
+      "https://www.facebook.com/events/999046294681131/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/385088485_642137834573365_1682032451804153842_n.jpg?stp=c84.0.620.296a_dst-jpg_p526x296&_nc_cat=102&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEcBU0NOUMmQygQxeovDAp1_5-E5BNjTYH_n4TkE2NNgShyvI61kFBDYuhCbbazz99QP__t28bdq8zPUEp4f2_D&_nc_ohc=jCvST2cTFkIAX99FSVV&_nc_oc=AQlo7bu5eRN8CfLT8A7o4v9Y7W5nFxhoBoViEBM6I1KxSGHdKZMjjI2zYBNWnCvsnUc&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDAOKm2VHOqqhgbBIOasvJi7JG7FHmfrgeaJOekEprg8w&oe=6574A0C0"
+    ],
+    [
+      "We Are Afro Party @Riverside",
+      "SAT, DEC 16 AT 10:00 PM EST",
+      "5020 St-Ambroise,Montreal,H4C 2G1,CA",
+      "29 interested parties · 4 will attend",
+      "https://www.facebook.com/events/3688291964727337/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/407705171_355104643870776_7640886342263384148_n.jpg?stp=c0.5.640.305a_dst-jpg_p320x320&_nc_cat=104&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeHLJb0Xw76DpSg-bpnmiYJcl42gnvwh6SqXjaCe_CHpKmx_cXaPtg5xxuUgKWm4tUFw1YUs9lsLBYLNDCoEArDn&_nc_ohc=WZ7wYiHcTf4AX94hdj5&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBk-sk3QoeDMJkKqOAy_gFQw6bQEBZh5vgeiNfw3jCvFA&oe=65741654"
+    ],
+    [
+      "Le Salon Daome: Into the Wild - Dimuth K, Vie Sauvage",
+      "FRI, DEC 8 AT 10:30 PM EST",
+      "The Daomé Salon",
+      "80 interested parties · 20 will attend",
+      "https://www.facebook.com/events/717611050244560/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/403691743_1233382947582421_8102836713736196031_n.jpg?stp=c0.29.1920.917a_dst-jpg_s640x640&_nc_cat=100&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeHUeGPxIz4GIlKR68mT5O47p-JZZRwo3KOn4lllHCjco8miJ0btApnrgqbddvrWwF4peF0q2S9gWLsujMbgjha0&_nc_ohc=q23zxTJtqvcAX9MMiH5&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBVOrPimRApEncmXXoZB_CYnJdlYhfvh7usqHgZSaFIeg&oe=6573D347"
+    ],
+    [
+      "The FringeMas Cabaret & Variety Show",
+      "SAT, DEC 9 AT 8:00 PM EST",
+      "MainLine Theatre",
+      "108 interested parties · 10 will attend",
+      "https://www.facebook.com/events/858971839110641/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/400328685_875533234106669_4330127110954372285_n.jpg?stp=c0.112.940.449a_dst-jpg_s640x640&_nc_cat=107&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeGPWGpavwTuqQOIQcc48oCn7BTjD3xzPl7sFOMPfHM-XtIqApbNILgrsiCod4neNOIlTaHmMTM2wH1WmtviO_Pq&_nc_ohc=trx2AA05bNUAX-13Fbl&_nc_ht=scontent-yyz1-1.xx&oh=00_AfARUiJgVz-gHNrZRj61N1NfaLkzjyOohwSX45Oz7STvyw&oe=6574A826"
+    ],
+    [
+      "MTL Bboying 18 Year Anniversary",
+      "SEG, 15 DE JAN DE 2024 A 21 DE JAN DE 2024",
+      "Montreal",
+      "75 interested parties · 12 will attend",
+      "https://www.facebook.com/events/614308244201346/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/406905961_10160173955767153_5280030530112840083_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=103&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEZ81GAgp6_OLJ4oZyaJr-ATBGHeAA-5BtMEYd4AD7kG6cIbPAgf-4GEBpZl4hyV5L00e0OmgSKqHEzLL9G0xdU&_nc_ohc=U2nTiJkyqXYAX-Zo1fk&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCzx7sIKHPDlLu3jxU3kyDYyaJOKPL136axAuyPYjmMSg&oe=65746EB6"
+    ],
+    [
+      "BGFTB present: NO BPM LIMIT // with Dopamyne & $hadow",
+      "FRI, DEC 8 AT 10:00 PM EST",
+      "Bar La Shop · Montreal, Quebec",
+      "233 interested parties · 39 will attend",
+      "https://www.facebook.com/events/991874268544518/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/400471705_304194912461320_385765278358052723_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=100&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeG8iGAGl3-LP1Eley4YtGGSPp2u88NSVJ4-na7zw1JUnoPYZvsIHr5Fm6OzSw4nrq2kGNAJHticPqVG7sNb63CQ&_nc_ohc=Q-uisMHiwogAX-2P0Ei&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBl1eFXzK00keeSpfdemNmgFxyRYiBi9k7t7Q-stky8ag&oe=6574F7B2"
+    ],
+    [
+      "Krampus Ball MONTREAL",
+      "SAT, DEC 16 AT 10:00 PM EST",
+      "Cabaret Berlin · Montreal, Quebec",
+      "356 interested parties · 28 will attend",
+      "https://www.facebook.com/events/897525528379690/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/400995859_645477031128018_7936153913580893192_n.jpg?stp=c0.216.640.305a_dst-jpg_p640x640&_nc_cat=100&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeHJGJW-3IcO53gv2FpamVasD27m6C-fMewPbuboL58x7IUHfTYJuKLZAjO3Lj3P-6hFYctfgJ6_cBmZBnQKI8Vv&_nc_ohc=jDrOU_YFvHYAX80vtYN&_nc_oc=AQlAIj0QSOp3wilZeLrQ-G7kZ1uziouwetKhjb4k7uj6l10Zm3miPoOThXxRDspV-vY&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAXzKHuqOaHIKOdHj-8L_tktE6mX8eSVUngB6qoAkGIEA&oe=6574DC28"
+    ],
+    [
+      "McGill Jazz 4 - Thurman / Pilc / Coleman / Green",
+      "SEX, JAN 26, 2024 AT 7:00 PM EST",
+      "Pound Eleven",
+      "129 interested parties · 9 will attend",
+      "https://www.facebook.com/events/641527997779243/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/374680791_722564533015418_8420374674165573057_n.jpg?stp=c0.39.621.296a_dst-jpg_p552x414&_nc_cat=106&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeHCv3MnqxEL-HXHADOsB2LfuLr3hYGF4Di4uveFgYXgOB3lw0JituxGVOuDEKpARUQUjLFLP0NasJ4kJzUIBX7m&_nc_ohc=fwH8bJgYTtwAX8zUKzP&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAn8-CywUp0Al9B1UrqcVM_S5DOX5yK2-z_jJM-6-uv_Q&oe=65749B1B"
+    ],
+    [
+      "Arder X Truncate [50 Weapons, Blueprint Records, Figure]",
+      "FRI, DEC 15 AT 10:00 PM EST",
+      "2023 Blvrd Saint-Laurent, Montréal, QC H2X 2T3",
+      "175 interested parties · 63 will attend",
+      "https://www.facebook.com/events/1016894716245152/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/402855190_735161848634800_4776589784909656726_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=108&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeGIawX6V_fwMAc_J-yA5jUXMTdkAqVV4pIxN2QCpVXikp4GaiOEKdvHmSqc8_AyLHS0gTvFZSjldHVX95pyr6hN&_nc_ohc=4_6IEZKpcdQAX_oI-2m&_nc_ht=scontent-yyz1-1.xx&oh=00_AfD55thViATuXC6oaMsglJz_7shiyKm_DWj7_28s24GY-w&oe=65745AF6"
+    ],
+    [
+      "VietDancers New Year's Eve Dance Party",
+      "SUN, DEC 31 AT 7:00 PM EST",
+      "VietDancers",
+      "31 interested parties · 9 will attend",
+      "https://www.facebook.com/events/702727295150062/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/404035386_816997216890768_1266268264039515338_n.jpg?stp=c0.197.640.305a_dst-jpg_p640x640&_nc_cat=110&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeFwKlfKd1Fq2zZGB60hbi5G8aeVRnzUbmLxp5VGfNRuYv4EFrTrraTzaPhLjs8wS9W4XKGyCKM-WIud_R3QYFTv&_nc_ohc=Xt6rLFsbkMsAX-tFr0I&_nc_ht=scontent-yyz1-1.xx&oh=00_AfD9fooRstuKeUzz3_oroN1cyJDUnaLgECC1EEAjj8-TZg&oe=6573BFA3"
+    ],
+    [
+      "Latin Groove’s legendary international potluck Christmas supper",
+      "MON, DEC 25 AT 5:00 PM EST",
+      "Latin Groove Dance and Fitness",
+      "96 interested parties · 8 will attend",
+      "https://www.facebook.com/events/314179734561890/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/387058432_753211333485404_1465422630919380244_n.jpg?stp=c0.181.640.305a_dst-jpg_p640x640&_nc_cat=108&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEVtweYm9SbFVqfzyuqherOLUTWZmUzAkktRNZmZTMCScmYyea-CyDFRTobpVx4cSFyDoDW2jmBZYPJbSJb9f4M&_nc_ohc=5QQvQxnNeVcAX80wi74&_nc_ht=scontent-yyz1-1.xx&oh=00_AfA5T03_KPRk-KFHqa__f59LCtqG6pQIJkINx-5K0nnuXw&oe=6574F948"
+    ],
+    [
+      "BREAK TUESDAYS with LYNX-Fall Session",
+      "TUE, DEC 5 AT 7:10 PM EST",
+      "Studio 303 · Montreal, Quebec",
+      "1 interested · 1 will attend",
+      "https://www.facebook.com/events/835380914847930/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/377591520_796442429150139_539788331247959258_n.jpg?stp=c0.58.640.305a_cp6_dst-jpg_p480x480&_nc_cat=100&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeED810elJRAavqEquEOCCBjscXQNjtctwmxxdA2O1y3CeuKXMqJZfnY4elSq_neNYLgwPP4KChY-2nTGVr3SRjy&_nc_ohc=9ABCBuXCw7QAX9W6cW4&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAKrkCB3HKYDke5AUQVVRzou1bKV26c-UoYKGWqRA7kzw&oe=65752B66"
+    ],
+    [
+      "SUPERNATURE",
+      "SAT, DEC 16 AT 10:00 PM EST",
+      "Waverly",
+      "51 interested parties · 10 will attend",
+      "https://www.facebook.com/events/1108497163649740/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/406505634_261532666919813_2853489790899616091_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=103&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeFqgFn7b6zwBADQU--2Npo4F8htAvbTjaEXyG0C9tONocNFJ1Fe6ryUgZncRb0-xFKfm06tQwo-997D3_hDIExy&_nc_ohc=tKBg1M0FRvgAX-Oovpr&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBZJ1gvmZtXhDDfnmtlv96Wkv4oKCb79tOIdrN5AZLg8A&oe=6574484D"
+    ],
+    [
+      "Noreiner W/ Nico Moreno",
+      "FRI, DEC 8 AT 11:00 PM EST",
+      "Sainte-Catherine Hall · Montreal, Quebec",
+      "841 interested parties · 260 will attend",
+      "https://www.facebook.com/events/1406802473584493/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/401596108_376634348219357_5461551610913275816_n.jpg?stp=c0.31.2048.978a_dst-jpg_s640x640&_nc_cat=106&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeFtGnmWMaAbkbeg0fvUZSIjeTwbcJRuZvF5PBtwlG5m8bqMHkHqD0mFP5MXpml6gfM1i2MzePTctxurOvL-2m6e&_nc_ohc=KMRAjBZeuzcAX8ImWr3&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAorsXq-iFeLuWAMHDriuhPnPibXz1QsehEzvcYS8uEow&oe=6573A621"
+    ],
+    [
+      "Frenchmen Street Fest",
+      "WHO, 28 FROM FIRST TO 8:00 PM EST",
+      "Chez Ernest - Curiosity counter",
+      "54 interested parties · 2 will attend",
+      "https://www.facebook.com/events/1824111334713294/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/400087064_723012193199367_6148799272720627593_n.jpg?stp=c0.18.1200.573a_dst-jpg_s640x640&_nc_cat=109&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEc62deQ--GfGHFymhDsG3rHMVeG58pm_McxV4bnymb81amqKFiGjpy5xib74Oh-dJevH0awnUL4hG9nmmEpYm0&_nc_ohc=Z10QUl2Y3QIAX-FSoX-&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBpSt9y5rN1pCY040GnKf1HSmLY0PDpFPIadEq7BXY4Cw&oe=6574808C"
+    ],
+    [
+      "Burna Boy - Montreal, QC",
+      "MON FEB 26, 2024 AT 7:30 PM EST",
+      "Centre Bell · Montreal, Quebec",
+      "309 interessados · 38 comparecerão",
+      "https://www.facebook.com/events/620180086957431/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/386274971_675373018026023_7611230093609152874_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=102&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeGbTxL6Q-abmPJzknd3ZRVhKX_bUxz_TNUpf9tTHP9M1d40ihxRb1h7xOHVjBmpQcKHdw74p8Y7RMLkFofjV-mD&_nc_ohc=t1afwsWGIkgAX-dL26j&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBnZPrTUZWGteVGPLVzm7gn5sMHx478rInChvLrsrxxdA&oe=6573DC1C"
+    ],
+    [
+      "People's Gospel Choir Concert @ Victoria Hall",
+      "SÁB, 9 DE DEZ ÀS 19:30 EST",
+      "Victoria Hall (Westmount)",
+      "130 interessados · 33 comparecerão",
+      "https://www.facebook.com/events/6175122695922710/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/397079807_708371574657029_5487681677837517158_n.jpg?stp=c0.172.640.306a_dst-jpg_p640x640&_nc_cat=107&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeFDeQUXuUJ24vQ16Zy2LR2gsJ80ZzJTJK6wnzRnMlMkrp35SBP7AeXbhYCiMxr9klBQZ_Q4Evxog21551vOyfPb&_nc_ohc=YxOM4SJ4TlgAX8x7OVA&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAOaysDy_eO2Ti047SJekdjbJVEpd-M3igwwQmuBOUQEw&oe=6573BE80"
+    ],
+    [
+      "The Black Watch Family Division Children's Christmas Tree Party",
+      "SÁB, 9 DE DEZ ÀS 12:00 EST",
+      "Black Watch Canada",
+      "42 interessados · 18 comparecerão",
+      "https://www.facebook.com/events/209868678790722/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/394540719_714771927345379_3919523390457725199_n.jpg?stp=c0.69.400.191a_dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeG8D5QUyeRWLFMBPwUyZpOkHkiuRbUteYAeSK5FtS15gPPp1WhhoC2hUhlV_cit2cVyS0MenL4qY3Ug2Xp85o4o&_nc_ohc=SIGGOCgwU2IAX_p_nqO&_nc_ht=scontent-yyz1-1.xx&oh=00_AfC_qvH_sEZ-Am0QiZJqi5As6nriqI0UBo9xO5_OguSzPQ&oe=657516E9"
+    ],
+    [
+      "CHRISTMAS KIZOMBA PARTY | 🎄🍾",
+      "SÁB, 16 DE DEZ ÀS 20:00 EST",
+      "Dr. Kizomba · Montreal, Quebec",
+      "25 interessados · 12 comparecerão",
+      "https://www.facebook.com/events/361349686350942/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/401634805_877142500437098_8782162871796406989_n.jpg?stp=c0.173.640.305a_dst-jpg_p640x640&_nc_cat=110&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeH7zNobG1U9CoHWiYyV6pJYKXBkDAApnHopcGQMACmcel3lCB40qZNYkEqiq2MWhSE3qJJlgonTUmGEHQWMROno&_nc_ohc=HwUmPS46TbQAX_Mpogm&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAx-_VI3oFo0Sn5kON-hKyE_yUVyVMWMtGx-HapqmewJA&oe=6573F442"
+    ],
+    [
+      "DEAD VELVET GODLESS EP LAUNCH W/ OUTLIER + BECOMING THE BULLY",
+      "SÁB, 16 DE DEZ ÀS 20:00 EST",
+      "Piranha Bar",
+      "198 interessados · 74 comparecerão",
+      "https://www.facebook.com/events/2548954711938249/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/401078646_687204073511216_7199659866432383783_n.jpg?stp=c0.110.640.306a_dst-jpg_p640x640&_nc_cat=103&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeHsdinjGlZtVM7cEoXMi1HfabRPfUAnBKJptE99QCcEolFbQzb-f0rH6jjo-RcW9258WRK4eqUFtscyHdzx1G4e&_nc_ohc=PsGTYtrZ5HcAX8YJtAy&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAJ-kV9vRZhA4-gF-ox_nEPCeUOro-WhqK7L67atJ0P-w&oe=6573EF1C"
+    ],
+    [
+      "Ecstatic Dance X Contact Improv 5 (MONDAY, DEC 11)",
+      "SEG, 11 DE DEZ ÀS 19:00 EST",
+      "Studio 303",
+      "58 interessados · 9 comparecerão",
+      "https://www.facebook.com/events/747117974128042/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/407798675_10159534179265233_8658795818898623241_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=100&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeHmSYAGJPCflaxonC6kVrqAepJKU1gqdDp6kkpTWCp0Ot_oCP12F1nzm96oUFoTnjz6dSlhiql0Ks2ggc8ZhJfR&_nc_ohc=wpI_r53K_hAAX8OiFTY&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCISqxgM07XcCHkUSjgme2sCdW6q0ATzrA-eX7oyaHFnA&oe=65749D48"
+    ],
+    [
+      "THE BEATLES Tribute - HELP! - Live at Montreal's Legendary Wheel Club",
+      "SEX, 9 DE FEV DE 2024 ÀS 20:00 EST",
+      "The Wheel Club",
+      "86 interessados · 6 comparecerão",
+      "https://www.facebook.com/events/293705470164384/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/398404566_726779276136501_1236478628457659446_n.jpg?stp=c0.29.1750.835a_dst-jpg_s640x640&_nc_cat=104&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeFXas4Hc8X1D9HPCsclifSogpp5OrJi5DSCmnk6smLkNCrlgEDsDsVJfuZu2jWXBuKWgYmXDjtXaTWzfIssgWqx&_nc_ohc=Ed_aP2kcjTUAX-tVVQ_&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAiRebqE4K-LlUX1stk7nlas_CJXNiWRDn0zDShqGFD6g&oe=65750F97"
+    ],
+    [
+      "CASAJMSB & Molson Coors Present: Brew5ki 2024",
+      "SEX, 12 DE JAN DE 2024 A 14 DE JAN DE 2024",
+      "Commerce and Administration Students' Association (CASAJMSB)",
+      "54 interessados · 26 comparecerão",
+      "https://www.facebook.com/events/669652512013249/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/402079586_753923456780335_3303642246475518283_n.jpg?stp=c0.18.622.296a_cp6_dst-jpg_p235x350&_nc_cat=111&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeHv7HFGwhgxUWlBNuTzrdReIEh99l7MyqEgSH32XszKobAvqwUCBziVC8MSNkes9-5HmZ_o3MRGm-dTOhysSXQl&_nc_ohc=_VhLOMYajNkAX9oAuRI&_nc_ht=scontent-yyz1-1.xx&oh=00_AfB2fMkLZcmscTPyAplkC18iqGozwJxQPw6paPT68obGyw&oe=6573A727"
+    ],
+    [
+      "Montreal Comedy ( Stand Up Comedy Show ) at Comedy Club Montreal  (9 PM)",
+      "SEX, 8 DE DEZ ÀS 21:00 EST",
+      "The Comedyville Comedy Club in Montreal",
+      "2 interessados · 1 comparecerão",
+      "https://www.facebook.com/events/956046902109093/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/323776294_1115384609129994_8461916658579131560_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=100&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeFjb9wycOZIZPqOrht_GWvVQZRdwniZPRtBlF3CeJk9G7-kiW9c-a1suPbQ8njhxw12d5zYjDBVdkVPRHJub1LN&_nc_ohc=AwmWc4pI94AAX_yuzke&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAHQcp3OBn-UKz91hipDMEiDs6n9adEStGvUyGBQJ-TIg&oe=65740904"
+    ],
+    [
+      "Elton Songs - The Ultimate Tribute to Elton John - Live at Montreal's Legendary Wheel Club",
+      "SEX, 26 DE JAN DE 2024 ÀS 20:00 EST",
+      "The Wheel Club",
+      "92 interessados · 10 comparecerão",
+      "https://www.facebook.com/events/349598167593571/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/395454242_722825206531908_9179193309622012494_n.jpg?stp=c0.30.2008.959a_dst-jpg_s640x640&_nc_cat=106&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEbnRGKp4MOeYlCnbIAIqKPksHqgeqXtKKSweqB6pe0otkIwCpCxEXPAR3G_VA_HWZB5rldXJtqemO6zd8coi7q&_nc_ohc=fgWxznF5TPgAX8nEM9D&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCFnVh_1a6W6rbpC3RNPJgrf7jdjH8tG4Rd1nhY71Ltcw&oe=6573B1BA"
+    ],
+    [
+      "The Dark Eighties NYE Party in Montréal",
+      "DOM, 31 DE DEZ DE 2023 ÀS 21:00 PST",
+      "Church of St. John the Evangelist",
+      "204 interessados · 20 comparecerão",
+      "https://www.facebook.com/events/1398134457438906/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/403910059_10160707835621321_7513817316966648305_n.jpg?stp=c0.18.621.296a_dst-jpg_p235x350&_nc_cat=111&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeG-Z4YqMVxoVASSRD9fDx45I9D5jsygxdsj0PmOzKDF25QlAabfroLiZJFfyusWP0vm_ZPZqPYq0eEU3aqhkZSI&_nc_ohc=9Q0Uvg3SgygAX_T0XXG&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDSpn0NFtXpNmp8zGc9PxbrHJ0ysZNbwy0ef6effmUO1Q&oe=6575618A"
+    ],
+    [
+      "Kid Koala The Storyville Mosquito MONTRÉAL",
+      "SÁB, 2 DE MAR DE 2024 ÀS 15:00 EST",
+      "Place-des-Arts",
+      "120 interessados · 16 comparecerão",
+      "https://www.facebook.com/events/1277993696244556/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/394630402_845819776992539_5800618324434830595_n.jpg?stp=c0.110.640.306a_dst-jpg_p640x640&_nc_cat=107&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeHoK55zTfbz1QZ2cjLDRNPuvaQzQejnHee9pDNB6Ocd54BsXnDk_UDgLt63Mhwnw0Exu62Eg6NQPybaZ7Moo3eF&_nc_ohc=sCTkRdPW0P8AX-j6uE1&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDHlTk2W7lhYh5oBWEFM04HNv9qDc4EPN2PZTjvgIjbYQ&oe=6573E141"
+    ],
+    [
+      "CONSTELLATIONS : Concert hivernal/winter concert du Monday Night Choir",
+      "QUA, 13 DE DEZ ÀS 19:00 EST",
+      "Notre-Dame-de-Bon-Secours Chapel",
+      "213 interessados · 83 comparecerão",
+      "https://www.facebook.com/events/1019402795796788/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/406033209_753935836751313_345849506458765353_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=105&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeH_8niPO0hgaCGsPRuNK-tymf0krrZshguZ_SSutmyGC4sxomkL-pq29jdHtZPWIXjrsS1QN74oYJy0-nWDJz_7&_nc_ohc=6OM8MJP-CW8AX_qW2-d&_nc_ht=scontent-yyz1-1.xx&oh=00_AfC6b0BzThxC61qcTwKLfdInvgh2cE7BQoBbbojsJ4huZA&oe=65740F35"
+    ],
+    [
+      "Mundo Lingo Montreal - Plateau Mont Royal",
+      "QUA, 6 DE DEZ ÀS 19:00 EST",
+      "Clébard",
+      "27 interessados · 5 comparecerão",
+      "https://www.facebook.com/events/1039892107049431/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/400712276_10161572300027704_3182703893859815459_n.jpg?stp=c0.16.1043.498a_dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeH_Cj2ZaHa7hp5Xy1pmAoKwrauYaafTzo-tq5hpp9POj1SU4MQQ_gYRoiiJ0hQ-JD2V4-cWVuicYAoT98qaTqJz&_nc_ohc=CAENkuIu8IUAX-q-q9h&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCX2nBbuFCeAl28HXeTXQkHM-_a1_Y5pzHHtmlCLEfMfQ&oe=657389A4"
+    ],
+    [
+      "The Words & Music Show: Enkonkaratonhase—Let Me Tell You a Story...",
+      "SEG, 11 DE DEZ ÀS 20:00 EST",
+      "Casa del Popolo",
+      "72 interessados · 18 comparecerão",
+      "https://www.facebook.com/events/1430932297485024/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/405040819_739584728289413_2520587391641811375_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=103&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeGO-_RGJkgnUhl2_4gwqWCIC36BMFkL2A4LfoEwWQvYDls1RR0Hwgo-gQbIpoMtlJ8UCvUFYPI-A9off5oMTyjD&_nc_ohc=-WxYOc9H714AX_4KHcE&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCa3nIOnJyPvujBqlk_3rKxwXNJzdLwSdmVjUeCT79XFQ&oe=657461D9"
+    ],
+    [
+      "SHIFT NYEE 2023 - Zenon x AlpaKa Showcase - AIRI & Akari System [Japan]",
+      "SAT, DEC 30 TO DEC 31",
+      "Bain Mathieu",
+      "554 interested parties · 137 will attend",
+      "https://www.facebook.com/events/834186275116716/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/396241049_295208326722883_1094987225519990383_n.jpg?stp=c0.15.639.305a_dst-jpg_p235x350&_nc_cat=108&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeHBBGREkFPxyGVVBvMDIDIZg_jHNQdAcg2D-Mc1B0ByDa24783V5PiTKjFUS3SqmICjXZ80KFh9qdqZ1e9e--9Z&_nc_ohc=3kHDkkEGND4AX9Zh7JI&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDMo4yPKRSvI3yWx9AChmNogaNqpfMoJdLntPSsKtMvxw&oe=65753DC4"
+    ],
+    [
+      "Jazz at UNF",
+      "SAT, DEC 16 AT 6:30 PM EST",
+      "405 Avenue Fairmount O, Montréal, QC H2V 2G5, Canada",
+      "94 interested parties · 11 will attend",
+      "https://www.facebook.com/events/272949955234741/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/407871975_743528974466007_5989995056718849216_n.jpg?stp=c0.33.2048.977a_dst-jpg_s640x640&_nc_cat=102&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeHOGpi5Ztsx9_6EmNQNuVGMyIGacCsKMGHIgZpwKwowYWk5cganqFU8r6b1TLP8T2_qzOHdMJsOxnUY_5FuYUcD&_nc_ohc=Jiie7Qn9Vl8AX9MXilW&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBjoYBLM679we9ejIfeorLqHfqa04ezgbWMEFjAxhUcww&oe=6574C677"
+    ],
+    [
+      "F2F Tour Montreal",
+      "SAT JAN 6, 2024 AT 09:00 EST",
+      "2200 Mansfield St Montreal, Quebec H3A 3R8",
+      "80 interested parties · 16 will attend",
+      "https://www.facebook.com/events/1003767054042530/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/406335922_381659784216568_3260614063075239925_n.jpg?stp=c0.7.627.299a_dst-jpg_p320x320&_nc_cat=104&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeGcrOqQBNL2uOgt2BECsCJ4yig9znd3qIbKKD3Od3eohnutGCHpWOC-8L0cbI6mQdNhbo2i8ZUmxgoIH6xMEsMz&_nc_ohc=HGHK5cW4eHAAX8iLoUQ&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCyFqxT9wrT0bJfqkPeIfHw75rpuUd6vTAHxUU_6AMkeQ&oe=6573B8B9"
+    ],
+    [
+      "Asaf Avidan (Montréal - Second Show Added!)",
+      "SEX, 12 OF JAN OF 2024 AT 7:00 PM EST",
+      "Théâtre Rialto · Montreal, Quebec",
+      "68 interested parties · 16 will attend",
+      "https://www.facebook.com/events/3669581853326939/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/402072155_748221124001345_3738503186814753821_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=111&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeFZywDOwOpCZbNBXUS95TVufCJbL65YpJF8IlsvrlikkdO202tpxyzM5yaDhpiIbDabqLWQbS5jc29tBqp_uy2d&_nc_ohc=A80RHcqYC3kAX-pNjrq&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCRj_rug2jOlT5b5u4cO45HUJC_zBw801KeFUHO3kt0JA&oe=65742A59"
+    ],
+    [
+      "Dance Team Project AUDITIONS 2024 🌟",
+      "QUA, 10 OF JAN OF 2024 AT 8:00 PM EST",
+      "372 Sainte-Catherine West, Montreal, QC, Canada",
+      "37 interested parties · 4 will attend",
+      "https://www.facebook.com/events/364792842721069/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/407975925_295861686759617_7425382355639747795_n.jpg?stp=c0.18.621.296a_dst-jpg_p235x350&_nc_cat=102&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeGWjnX9zpSFPMHDZWGIQGJf61PUhk8UUcDrU9SGTxRRwPbrH47w-TwHFjJu3q2MJSNqTTarslXZTQR8pPnE5rPR&_nc_ohc=B1JqrzZYDKwAX97Uhwb&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDD8WTz6uZnkRHFtYzDmwvYIRrWF6g5uHFYXkvhfmvgEA&oe=65748AFD"
+    ],
+    [
+      "Zero State/Flesh Shrine/Braindown/Premeditated @ Traxide Jan 12",
+      "SEX, 12 OF JAN OF 2024 AT 9:00 PM EST",
+      "Traxide · Montreal, Quebec",
+      "76 interested parties · 18 will attend",
+      "https://www.facebook.com/events/238586685766942/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/406270868_333313769452880_7021291380332970731_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=108&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeHy9dzC62pIzSyOcfXMhROtnmoNPfNQNFmeag0981A0WcHp1GNPN-Fy822ysyv1LY5gETGzCIn6NPdDL7-kKutp&_nc_ohc=HRvaRHWfufgAX8ezDN8&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDxr2PZ9EBq0ibvvAevJblHfXfD7lVLIOB5U2OQJ7IoRQ&oe=65756043"
+    ],
+    [
+      "NYE DISCO COUNTDOWN ! w/ Walla P, Kobal, FlyP",
+      "SUN DEC 31, 2023 AT 9:30 PM EST",
+      "The big house",
+      "47 interested parties · 9 will attend",
+      "https://www.facebook.com/events/1643180859542815/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/408128342_879121807552066_1736885114744087219_n.jpg?stp=c0.32.2048.977a_dst-jpg_s640x640&_nc_cat=107&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeGil-dI29CRwe5M9YpBblpkcd2yZTV0Jrtx3bJlNXQmu8LRHbi_hD5C_lbI4ztagm5yJikkiWfHYEog9ukcm4kg&_nc_ohc=Uzi1wjv-YR0AX_AsP5t&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAOSxrrP4lF6nq7XWMKwVP7l7SCV-NXGykB0x2SCSgvag&oe=6574D662"
+    ],
+    [
+      "COVEN Drag Show - Last Breath Edition",
+      "FRI, DEC 15 AT 10:00 PM EST",
+      "The Diving Bell Social Club / Club Social Le Scaphandre",
+      "71 interested parties · 15 will attend",
+      "https://www.facebook.com/events/1022193755653501/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/400746939_821406489990197_7077201815545648067_n.jpg?stp=c0.77.640.306a_dst-jpg_p180x540&_nc_cat=100&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeGU8pq1fK9KxTRVvnwdclP7bsWSgXphrX5uxZKBemGtfvQc7r1VEnTgfmD1ZarpEHzSAUwz3d2lTYbfFxQBnRoX&_nc_ohc=LIfpEKHQx1EAX87Lh6o&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBFBVyBD4nOQ0BmLVpcFIRAke0kd7b5Qv8l1JcrmH8rSA&oe=65755CB4"
+    ],
+    [
+      "Montreal (English) | Banff Mountain Film Festival",
+      "SEX, FEB 2, 2024 TO FEB 3, 2024",
+      "Concordia University - Sir George Williams Campus",
+      "300 interested parties · 15 will attend",
+      "https://www.facebook.com/events/3115783128717470/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/391628179_697069252468939_1363562931309270119_n.jpg?stp=c0.39.621.296a_dst-jpg_p552x414&_nc_cat=102&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeFZjW_NcWDUSqp1c40aLpFptRJUX9EC1Ue1ElRf0QLVRzWBpKiqianNIkazgh3BQYCGR5xOmQtPbC4wDOgDn58E&_nc_ohc=14X-9y74giYAX-OXgYe&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCyXMwe8EltuWkR2rXA6pzEwSBNYSIHJEVrqDMPV1fckw&oe=6573F40B"
+    ],
+    [
+      "BATTLEWAR: Régal des Fêtes",
+      "SUN, DEC 10 AT 8:00 PM EST",
+      "Electric Pussy",
+      "194 interested parties · 85 will attend",
+      "https://www.facebook.com/events/777117780847717/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/399988829_871741304778719_3223365319160491299_n.jpg?stp=c0.29.1920.917a_dst-jpg_s640x640&_nc_cat=111&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeG5Zasxid9o3fYr5tijzVz6kzJ5aHkZIjCTMnloeRkiMDrhz2xTK6mrX3OuG0ETNUkrOhDr_Vt4C71so_99NtIn&_nc_ohc=xkWoN95YCs0AX8TvpUO&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDReUeE_strPprfAWyimMYBk5TsGSRYDd5lQQOmMiB1wA&oe=65752E4C"
+    ],
+    [
+      "Global Tarraxo Festival Montréal 3rd edition",
+      "SEX, 9 FEB 2024 TO 12 FEB 2024",
+      "Hotel Zero1",
+      "294 interested parties · 86 will attend",
+      "https://www.facebook.com/events/728067898822088/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/402835783_829712869157903_5303920602846995172_n.jpg?stp=c17.0.620.296a_dst-jpg_p526x296&_nc_cat=104&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeHe5gUC4TGDbWYnaWU_eMf8L-RKclpWwF8v5EpyWlbAX7yOb6YiRGQoBDLVaY7DK3Xi7uNUia5FR7BzL__rV8oZ&_nc_ohc=Jy7v5pLLNk8AX_c32oP&_nc_ht=scontent-yyz1-1.xx&oh=00_AfD7DGOmDF-9sDd1FPTo1VWXPNvK3cQ3Si-8761TLfWPDQ&oe=6574F557"
+    ],
+    [
+      "Funktreal",
+      "WHO, 18 OF JAN OF 2024 AT 7:00 PM EST",
+      "Montreal",
+      "4 interested parties · 1 will attend",
+      "https://www.facebook.com/events/290490483977570/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/406913298_10160174096942153_2882464066919255297_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=101&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeG-5ZtVdObSYTb3zRFl_9YYhC3GxQQ16taELcbFBDXq1qMR0_BiTwV2f2xYaKPhHeIH6E96sYfZR-sr9LmVoxrO&_nc_ohc=YiSqvdkCvvsAX9Vz75V&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBeVlz2Hto0l5VjCK2SpvsGAf0QKUnngj6pVUcItmO10A&oe=6574F9C2"
+    ],
+    [
+      "Last Call!",
+      "SAT, DEC 9 AT 9:00 PM EST",
+      "The Mayfair Tavern · Pointe-Claire, Quebec",
+      "18 interested parties · 7 will attend",
+      "https://www.facebook.com/events/1473402586769060/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/399055852_799131408679538_51884318149427530_n.jpg?stp=c0.91.2048.977a_cp6_dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEKuLMD7ew0U0zvsjRjLM2CUlogcDei_aJSWiBwN6L9oqKYRuj8aKc66EM8phBinwi7p0i2SFuoaTt4G9z7tJT-&_nc_ohc=zC4Ei5rnCikAX8ebVRD&_nc_ht=scontent-yyz1-1.xx&oh=00_AfACN1lL7-FnkEAcw2Qu_ISFMoYwkSg6sLxN0-pPhepQxQ&oe=65738FAA"
+    ],
+    [
+      "Forro de Lá • Le Tambour du Ste-Cath • $20",
+      "WHO, 7 FROM FIRST TO 8:00 PM EST",
+      "Le Tambour du Ste-Cath · Montreal, Quebec",
+      "216 interested parties · 13 will attend",
+      "https://www.facebook.com/events/337795968930545/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/397047434_278098231871619_868919818445469091_n.jpg?stp=c0.39.621.296a_dst-jpg_p552x414&_nc_cat=110&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeFEfaAa1MfnJJpp1Pqs9UcvYf4PyvPTziVh_g_K89POJRHckfxpoC4aW0X_9lK8oOycQuP3FK-1mdVVJDf53s7m&_nc_ohc=7w4yczKimfkAX8XjUXG&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDFCxO3z2sDxy2UZKLPLVDQKyrGlX2Qu86ePZ2bxt4BXg&oe=65744B5E"
+    ],
+    [
+      "Introduction Festival 2024",
+      "SAT, JAN 20, 2024 AT 22:00 UTC+01",
+      "Jet Night Club",
+      "1,100 interested parties · 204 will attend",
+      "https://www.facebook.com/events/867208571689113/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/401027696_303434222572964_523345637825155146_n.jpg?stp=c0.8.617.295a_dst-jpg_p320x320&_nc_cat=100&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEaONjimCnU9qzzJfs0k3LDniTo6_SMYU-eJOjr9IxhT4RVpnxhhL7LUu4J_8grz-nn6UJaEfXayxsayH6fat_E&_nc_ohc=XGtEfdBbX0YAX9LaBTW&_nc_oc=AQm6y2WhVVGJBs4UMd_M_GS4MVaGcNdugjiqrXie1FbA4qEhQVBwFGe4IAxJnphrH7Y&_nc_ht=scontent-yyz1-1.xx&oh=00_AfArnMT874Jeb07n93qE9zKTkLQIaXkHXoX9VLJkZVzxiQ&oe=6573BF12"
+    ],
+    [
+      "San Tropez 30yr Celebration  \"The Alignment\"",
+      "SAT, DEC 16 AT 7:00 PM EST",
+      "Plaza Theater",
+      "97 interested parties · 37 will attend",
+      "https://www.facebook.com/events/240826072202876/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/364702259_702857058529767_328305256479101781_n.jpg?stp=c0.171.640.305a_dst-jpg_p640x640&_nc_cat=108&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeFvS5dh2arKL8YnD7XVX1d2aRTc_xkstGNpFNz_GSy0Yy42O3oU1VFsKgIhnWnlrMKUyy76IY-lHcLVTTezki9X&_nc_ohc=fscUgdygndYAX8UkESQ&_nc_ht=scontent-yyz1-1.xx&oh=00_AfC2rC2jFz9kYFA1QvyVotHRzD_FZzjnOL2K9ULGz8H3wA&oe=6574C0E1"
+    ],
+    [
+      "QT2S HOLIGAY Market",
+      "SAT, DEC 16 AT 12:00 UTC-07",
+      "The Green Fridge",
+      "308 interested parties · 14 will attend",
+      "https://www.facebook.com/events/719490482939556/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/400317283_348052544437225_2259805647163526082_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=106&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeFDoPAVFM64KhGlSQJ4BrcoqsAdemnFW36qwB16acVbfuEr3vnBbRQIlbo6IaVbV6PcnZ1w61fBQxvzxxFEhYWr&_nc_ohc=8Ds2-3F3ursAX__aRpd&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBwF1Gtg_nyoQpddFONvhRS7xxxoPAt6gYpEbHhArlm1A&oe=6574EC13"
+    ],
+    [
+      "Young Professionals Chanukah Shabbat Dinner",
+      "FRI, DEC 8 AT 7:00 PM EST",
+      "Congregation Shaar Hashomayim",
+      "34 interested parties · 9 will attend",
+      "https://www.facebook.com/events/310291065218883/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/405718386_756572209835032_6737424304745510869_n.jpg?stp=c0.172.640.306a_dst-jpg_p640x640&_nc_cat=111&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEOJNxo45kTld22BhpcQWS4LwZUM9ELeRwvBlQz0Qt5HGatUYu8EbRDXZjhehGkAocm8JbEIx9PDw9oOucOj3cS&_nc_ohc=PkHsBVurJ78AX9Tsdth&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBcraR9mAo_iBft-tJvdTGPb_G0pc1hsEQoz5p76POPfQ&oe=657465FC"
+    ],
+    [
+      "Marche de Noel",
+      "SUN, DEC 10 AT 11:00 EST",
+      "1187 Charlevoix\nMontreal, QC, Canada, Quebec H3K 1J8",
+      "62 interested parties · 12 will attend",
+      "https://www.facebook.com/events/848866493444393/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/403723679_822600999869807_7110883532635192500_n.jpg?stp=c0.110.640.306a_dst-jpg_p640x640&_nc_cat=106&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeG-FQ7u-hLgxn49z_lyR8fsRSWxi1-7xzJFJbGLX7vHMhnIgQJ42ofl0vSyaZZ8qRbZ4eZM7Q1UGU2kHXwHMtGK&_nc_ohc=p2HOl_X06LIAX_qcHMk&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCu7kqIz-V6-JmK742H9iCgJepWT9wmU8IAx3uqXaJpYQ&oe=65749ECA"
+    ],
+    [
+      "MAVERICK • KILLER DOCTORS • RADIUM MOON @ Turbo Haus",
+      "FRI, DEC 22 AT 8:00 PM EST",
+      "Turbo Haüs",
+      "28 interested parties · 9 will attend",
+      "https://www.facebook.com/events/672823391645382/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/403617038_190784157424337_5137091401616744290_n.jpg?stp=c0.178.640.306a_dst-jpg_p640x640&_nc_cat=107&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeH5y5ca8vxuqVTGguEPPRv3yo7tP5b67vfKju0_lvru914ASriiN8rXzkEFOughlcupFmVVPynyAys5wb7Pd0Qw&_nc_ohc=Ls3i4hY5CYUAX_IMI-C&_nc_ht=scontent-yyz1-1.xx&oh=00_AfC4ku0F2hQk7k96fFp0nLWhlNve2R1eU_qeauq3JMsfbg&oe=65739E4C"
+    ],
+    [
+      "Tribute Show to The Killers by Jenny's Friends",
+      "SAT JAN 13, 2024 AT 8:00 PM EST",
+      "Petit Campus · Montreal, Quebec",
+      "61 interested parties · 9 will attend",
+      "https://www.facebook.com/events/1490754418165384/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/402855221_255439504195558_923840981954458728_n.jpg?stp=c0.113.998.477a_dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeESwF_FPzb8-EiF4e7mZok2ESe4kiwzh3sRJ7iSLDOHe9XPq9s12e9wO5uqKSuTywlQbQFfozoxgmhLHdOkWpRK&_nc_ohc=faqpc3S2S4gAX-TssS4&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCYZdWz1hoLVJzG8l5u1O_r6PJOPAUCrTF4dV57Zjr-8Q&oe=6574A2EA"
+    ],
+    [
+      "NYE 2024 with DJ NITRO",
+      "SUN DEC 31 AT 5:45 PM EST",
+      "Royal Canadian Legion Lachine Branch 85/90",
+      "19 interested parties · 2 will attend",
+      "https://www.facebook.com/events/709799987365963/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/399633866_845562947570205_5901480981520511522_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=101&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeHFRIQLHjotBI6rEQqy1q8Mu_Amoq4g2jO78CairiDaM_uWEBmoNf6o84SkoUJS8J0ZPVJHXXJPVqkmXfb7roEI&_nc_ohc=e5vuvQ1tn3YAX-1Ue8-&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBEQylXjj33jzVXTGRQfiALgFCvTsI9MPoWiHJCsAEfMA&oe=65749D53"
+    ],
+    [
+      "The Reunion ft. Soul II Soul's Jazzie B & jojoflores",
+      "SAT, DEC 9 AT 7:00 PM EST",
+      "Nasty",
+      "94 interested parties · 26 will attend",
+      "https://www.facebook.com/events/892166772436222/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/404118437_358181356686128_2953242435565209714_n.jpg?stp=c0.5.640.305a_dst-jpg_p320x320&_nc_cat=104&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEoRTFDqzqKqGpDNtdXv_lt9yDHJRcKmxb3IMclFwqbFjXFt20TplzRJ49evQqpXCjZycAjGIe4quDIm-YwSTp0&_nc_ohc=OsWODUX4s_MAX9-K0Kr&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDh9KfzeFQOBenEomGKfpMD1wRKAB8B4FB9YTACtk-0xg&oe=65753515"
+    ],
+    [
+      "Kon-Fusion // The You & Me's @ Quai des Brumes",
+      "WHO, 14 FROM FIRST TO 9:00 PM EST",
+      "Quai des Brumes",
+      "219 interested parties · 35 will attend",
+      "https://www.facebook.com/events/231946816366295/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/398338638_650041727117942_584576800399616746_n.jpg?stp=c0.41.615.293a_dst-jpg_p417x417&_nc_cat=105&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEwUF9OSMOHPtxvqaUO9a6zbSlDu1dGK3FtKUO7V0Yrcdk8iH-WPkUaOUpkNs839gjlEIdvHtqOkd0KV5zZGHtU&_nc_ohc=U7712-4Ffs4AX_gxdnH&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCQc3yXNyhpHHvALPykZCpxZG17SqqXc2Lx2qNQfvp7Mg&oe=6573E059"
+    ],
+    [
+      "🎉🥂 SUITE SIX62 1-YEAR ANNIVERSARY 🥂🎉",
+      "SAT, DEC 16 AT 10:30 PM EST",
+      "662 90e Avenue, La Salle, QC H8R 3A1, Canada",
+      "30 interested parties · 16 will attend",
+      "https://www.facebook.com/events/1041962656926652/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/406804093_318189537813213_7966852884737212066_n.jpg?stp=c0.161.640.305a_dst-jpg_p640x640&_nc_cat=104&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeG5vNvSIrzJp8uycNt4Q0iuMzQ5oXVThU0zNDmhdVOFTZqMv_SDsYcorjPS7tsmkO2QwkdZ9Q1gmTCL0FJX1kGj&_nc_ohc=7tjaWt078_cAX-z5jx_&_nc_ht=scontent-yyz1-1.xx&oh=00_AfA36nSiMDAJ-NxhS8wx4j3kLU4fwP47qxT6g9kGo27Dsw&oe=65745858"
+    ],
+    [
+      "MTLHC Collective and JHD presents: HOLIDAY FUNDRAISER with DESECRATE, KENNEDY, SHUT AWAY & FRIENDS",
+      "SAT, DEC 30 AT 7:00 PM EST",
+      "The Underground",
+      "139 interested parties · 56 will attend",
+      "https://www.facebook.com/events/859872829015176/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/402104550_249179054837867_5795603695980692148_n.jpg?stp=c0.163.640.306a_dst-jpg_p640x640&_nc_cat=100&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeF7nsa-trq1q3U7YIcjgDeTdLHK2nyiNRl0scrafKI1GbxrTDZfmtjbOvT9dcdRwTF_ggs4QNjj0NabhkWG4HHN&_nc_ohc=--NxFyIjLV4AX8Sigb7&_nc_ht=scontent-yyz1-1.xx&oh=00_AfD3abHlltijlk6XT5bZ9lQImafgNBvJif-wIjyiUJF2Gg&oe=6573C3C5"
+    ],
+    [
+      "Oliverse - Montreal, QC",
+      "FRI FEB 16, 2024 AT 9:30 PM EST",
+      "Bar La Shop",
+      "140 interested parties · 33 will attend",
+      "https://www.facebook.com/events/360828436316184/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/395395143_816296697169697_2125829685599272837_n.jpg?stp=c0.29.1920.917a_dst-jpg_s640x640&_nc_cat=101&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeGdaNjOBVXlcYiNByiNNnGzmC32D6YwzKCYLfYPpjDMoN3iGTI5MKKgpDA0srtEz56wFGhcqINICQA-hliBkw48&_nc_ohc=9Ug8MhX2GpIAX8gAdLn&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDhL8imOTw8zsyFgvAOr4Ip4IIdz-_h1IfWcI9BxDnMqA&oe=6573A94C"
+    ],
+    [
+      "Tuesday Night Stand Up Comedy | 3rd Floor Comedy Club",
+      "TUE, DEC 5 AT 8:00 PM EST",
+      "2015 Rue Crescent,Montréal,H3G 2C1,CA",
+      "7 people interested",
+      "https://www.facebook.com/events/1049832309545800/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/379929020_269831812566552_8181882358907146340_n.jpg?stp=c0.5.640.305a_dst-jpg_p320x320&_nc_cat=102&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEisxTHNODeRVlhoXj61T-s-w_VINzCrVb7D9Ug3MKtVgjbrgnuvWSTAz7QvR-WQ3cNElAEHlwjhD4HZJ93AqfB&_nc_ohc=BWYpXpjTtxEAX_Kkuzk&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAQV_R_nq0DYOOqt1yXRGYCb1cvwvLskOoWHhNVf-cyBQ&oe=6574F752"
+    ],
+    [
+      "NOUVELLE DATE / NEW DATE : The Gracefully Hip: un hommage à The Tragically Hip | Théâtre Beanfield",
+      "SEX, 12 OF JAN OF 2024 AT 8:00 PM EST",
+      "Théâtre Beanfield · Montreal, Quebec",
+      "182 interested parties · 29 will attend",
+      "https://www.facebook.com/events/607112024644815/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/366220157_696748652501037_3671081214814454693_n.jpg?stp=c0.39.622.297a_dst-jpg_p552x414&_nc_cat=111&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeGcnSB3PfXEkRf8puC8nWQQ1yakqD4tYIrXJqSoPi1gihS1RpPmAMIV2GB7qE4trA0VkOf0k06B_IVrDIT0HUL1&_nc_ohc=O_RCQzm5-DgAX-F7kbg&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDDIVnxlmN3VVEKBQH-oeEiqBjlLvnGUPtu2E8phd_fLw&oe=6575643E"
+    ],
+    [
+      "The Musical Box : Selling England by the Pound - Tournée 50ieme anniversaire | Wilfrid-Pelletier",
+      "SEX, JAN 19, 2024 AT 8:00 PM EST",
+      "Salle Wilfrid-Pelletier · Montreal, Quebec",
+      "29 interested parties · 18 will attend",
+      "https://www.facebook.com/events/217230364578027/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/353794829_664911925684710_5990942362403905219_n.jpg?stp=c0.18.1200.573a_dst-jpg_s640x640&_nc_cat=104&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeH1bSDvAXySkXxXF1WHyEBUFaZ09WTCnxAVpnT1ZMKfEBOdjpIWDFe67iFrQQlDcZ6NYrWv20a3ymYpK6ARtoGU&_nc_ohc=qOduDkv0UEwAX_U9kig&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCfAH5zalAGII3WNfa6GsAh1ZFyEKr089HrIw9CnSXmdw&oe=6574C129"
+    ],
+    [
+      "This Saturday! Taline & Santa in Montreal",
+      "SAT, DEC 9 AT 10:00 PST",
+      "The Sourp Hagop Armenian School",
+      "64 interested parties · 14 will attend",
+      "https://www.facebook.com/events/264653676137466/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/398978639_876094863888149_8784926857101362463_n.jpg?stp=c0.110.640.306a_dst-jpg_p640x640&_nc_cat=103&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeFEpdmuqZWAzDrj2mBTTtXK7J3GQP3a3PTsncZA_drc9FEB_Vi2gd8MvGLUtaj2IwV5VTMLWiAFOdLYxo8LDngc&_nc_ohc=DUGgM3Fzc8oAX8RSw-x&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAuIikPrI1WGlyuOP4HZRUpuWPeEGBJA3aOBFDsNlZERw&oe=65740D06"
+    ],
+    [
+      "CSTAR RAC OSCE Workshop",
+      "WHO, 7 FROM FIRST TO 7:00 PM EST",
+      "McIntyre Medical Sciences Building",
+      "45 interested parties · 14 will attend",
+      "https://www.facebook.com/events/1034969644502419/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/404318334_10226787352362389_8803667947327956475_n.jpg?stp=c0.23.1036.494a_dst-jpg_s640x640&_nc_cat=109&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEWqmAUGfgU9BYzV4PFHL2fTQjgP1Dw9NpNCOA_UPD02mbxHLeGeH0k8ikb5OEI0rA8uNVoAc0SHbzFlIyexLzJ&_nc_ohc=ojZ7HTLD3PUAX8kkg66&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBFM2YvgxRaDQDYZHZcqbcSVAFrL_QPi25KcR4kVYevLw&oe=6574CC05"
+    ],
+    [
+      "NUS CAREER FAIR ‼️",
+      "WED, DEC 6 AT 4:30 PM EST",
+      "680 Rue Sherbrooke Ouest · Montreal, Quebec",
+      "36 interested parties · 8 will attend",
+      "https://www.facebook.com/events/6942675149145990/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/407671790_849346136888110_7937494042897231742_n.jpg?stp=c0.198.640.305a_dst-jpg_p640x640&_nc_cat=111&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeExV2dgZewIgglekAlsmR4aYKgWiaaywpxgqBaJprLCnPlF-6Txxvt_j4xcUsTluGUDWgGMwY0sKQ0CSA91sJjb&_nc_ohc=-TJZJNeQ5w4AX9xYcVl&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCC5AYA7c8AqGce-A-z8RE7621x0J3ulhb7LugpTCs_9g&oe=6574FB69"
+    ],
+    [
+      "The Room with Greg Sestero LIVE",
+      "WHO, 11 OF JAN OF 2024 AT 9:30 PM EST",
+      "Cinema du Parc · Montreal, Quebec",
+      "55 interested parties · 8 will attend",
+      "https://www.facebook.com/events/3573776409541796/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/405450517_849482067176971_2183902101130110640_n.jpg?stp=c81.0.621.296a_dst-jpg_p526x296&_nc_cat=110&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeETwGiKHkNfNsGSLXPBss4rGSk8v3Uvk1AZKTy_dS-TUHc2aJWU7On_SzSKyIXAX620f8qLzMVLPVrbFxJGxTpX&_nc_ohc=B8swLmXr16wAX9_kkEo&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCEOn9--zP5W5-8KF3HZktitJobd2sPwnB6eCpCXyUpHw&oe=65754406"
+    ],
+    [
+      "BEATLEMANIA & THE BEST OF THE SIXTIES INVASION",
+      "SAT, DEC 30 AT 8:00 PM EST",
+      "Macallan's Pub",
+      "30 interested parties · 4 will attend",
+      "https://www.facebook.com/events/364635262739016/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/406508304_835623821902646_2323316136807373684_n.jpg?stp=c0.181.640.305a_dst-jpg_p640x640&_nc_cat=106&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeFh2Lm4C-1HR9gQrqmEPEPhN-7E10GVqjs37sTXQZWqO9GZ1LPq3CUSprDiOyOQGcWywmCpkqGFTEK902wprx_6&_nc_ohc=XwnETLfUT9sAX-Wc85t&_nc_ht=scontent-yyz1-1.xx&oh=00_AfB_sQTaqvJMZW1cSWYO3i21tS0Pmae-KXhh_oE5vJBNIA&oe=65749D52"
+    ],
+    [
+      "Madonna \"Celebration Tour\" Tickets Montreal Quebec Canada Centre Bell",
+      "SAT JAN 20, 2024 AT 8:30 PM EST",
+      "Centre Bell · Montreal, Quebec",
+      "31 interested parties · 21 will attend",
+      "https://www.facebook.com/events/696836925469090/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/325951527_737586790914398_6304797302472264401_n.jpg?stp=c0.18.1200.573a_dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEzAeI59nwrpwR97ZoaLDBlbKJM62-XoAZsokzrb5egBsSmDbJC8tQNSzheQ5Xl8i1nnnht7jAAHUSjEWu-Det2&_nc_ohc=HxJzLHJBNOYAX9ICfwX&_nc_ht=scontent-yyz1-1.xx&oh=00_AfC9T2iP2xkBBUx6m_Uxq7qb8M0iQiCQdkFXsJChaM3Qkw&oe=6574A262"
+    ],
+    [
+      "McGameJam 2024",
+      "SEX, 19 DE JAN DE 2024 A 21 DE JAN DE 2024",
+      "Lorne M. Trottier Building - McGill University",
+      "31 interested parties · 7 will attend",
+      "https://www.facebook.com/events/282238271190379/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/392939429_730899732415178_6679220757076558823_n.jpg?stp=c0.5.640.305a_dst-jpg_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeGYedLXw856mZEuqNqpuLfh7V34Y3yAhrLtXfhjfICGsq2hcXE3I8KZemD_gGpbSfUWo6ywMFDOknmQ3ovqMAze&_nc_ohc=zDTwy1u_wyIAX_QuB3S&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBjMfDMrYIxbCAyDkur6btUzBQIC8JQJ_-nedspgGbO8A&oe=6573FC97"
+    ],
+    [
+      "Julemiddag - Christmas Dinner",
+      "SAT, DEC 9 AT 12:00 EST",
+      "Royal Canadian Legion 24/106 - NDG Branch/Filiale",
+      "13 interested · 22 will attend",
+      "https://www.facebook.com/events/698344888922308/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/401618814_838478841615870_2085548218194993572_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=101&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeE5mm4lkYeNXzBXD9u5N65HsVlDZvgLCySxWUNm-AsLJPfiJB2avsSKYExrjdUJLcoe5r7O1rDLuMbBmbUHJIzN&_nc_ohc=vWYevDihHcsAX_ZBA4l&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBNP7pFV7f-N4yVf9E9iIYvDT5S-0bJoAHg41GzaHoRaA&oe=6574B77E"
+    ],
+    [
+      "MYSTICAL ARTISANS' BAZAAR",
+      "MON, DEC 11 TO DEC 12",
+      "Restaurant O'noir",
+      "230 interested parties · 46 will attend",
+      "https://www.facebook.com/events/1507157500119897/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/400836596_3317731925133068_5780216972092799668_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=110&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEs1Du79Ctk1nXKArEO87X-iR7ZrHymXCOJHtmsfKZcI2NtwlezDRYscUsMo81n8iPuaqMDF_TuhcNgJ6iIhSeX&_nc_ohc=JOFFoY7VkYMAX8dP2Ko&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCTt5q_DbbmszuKO565ci0a3JcmVqE4ZjY1hYg6XWI3Fg&oe=65739D6A"
+    ],
+    [
+      "El Gran Baile Latin Dance Festival 2024",
+      "FRI, MAR 1, 2024 AT 5:00 PM EST",
+      "The Richmond Salon",
+      "37 interested parties · 23 will attend",
+      "https://www.facebook.com/events/863737211885347/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/406479427_676563457915486_4435272204172586332_n.jpg?stp=c78.0.621.296a_dst-jpg_p526x296&_nc_cat=110&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeFPWxlFrxwlpunslbF55hxhraG2BQTyTretobYFBPJOt57UXsZUw3BOJK0BBJ9T-Os-3_GUw10-RdAP9_q1dVPT&_nc_ohc=WrZ0q817w-8AX_onnBx&_nc_ht=scontent-yyz1-1.xx&oh=00_AfB2LxzLcdMmc7VTPrh6kOBPEhd7mifNyEzBjwb0XJhCYg&oe=6574D459"
+    ],
+    [
+      "KASS & STEVE | ZUMBA® GLOW PARTY",
+      "SAT FEB 24, 2024 AT 4:00 PM EST",
+      "Hellenic Community of Greater Montreal",
+      "109 interested parties · 47 will attend",
+      "https://www.facebook.com/events/297921606134632/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/362219453_765480622245154_722153192508945371_n.jpg?stp=c27.0.620.296a_dst-jpg_p526x296&_nc_cat=111&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeH1dsway4k6QIQqzVbcxclbtc_LaejQcSO1z8tp6NBxI0HrKEw6K6TkBx18xBarWASxFhZTyk5vhhbl-amhd04d&_nc_ohc=ubDe2c1tm0QAX9_cqOb&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDR20mGOH1fjl5HWQfRR7nJM3wROvj77vJNtKt3owjoGg&oe=65743A6F"
+    ],
+    [
+      "2024 MONTRÉAL MOTORCYCLE & POWERSPORTS SHOW",
+      "SEX, FEB 23, 2024 TO FEB 25, 2024",
+      "Montreal Convention Center",
+      "258 interested parties · 38 will attend",
+      "https://www.facebook.com/events/332236859398488/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/395783599_720647373420614_8464515073183508180_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=111&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeG4izp70HPKIxyfdyk1wMFdpGNKma62l_qkY0qZrraX-vOgNpU_FcJix_Q42y0HSZO3dvT33z0-9KYsBmTRDSgD&_nc_ohc=jRtq6CX-dZwAX_BZLe4&_nc_ht=scontent-yyz1-1.xx&oh=00_AfC4pRdqFpKAZFo5vTrGJ0ZSFg5eF4FM-ygk2XahNddT8Q&oe=6573B07D"
+    ],
+    [
+      "KARAOKE CHRISTMAS PARTY",
+      "WHO, 21 FROM FIRST TO 7:00 PM EST",
+      "The Wheel Club",
+      "53 interested parties · 7 will attend",
+      "https://www.facebook.com/events/696173152217261/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/399637550_823807203088545_2789698403638215038_n.jpg?stp=c0.48.650.310a_dst-jpg_s640x640&_nc_cat=105&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEs1_9HCBtAhoPwhvgQ64mS4uFOYIRfnS7i4U5ghF-dLkDnOzfLBG9HjZOSk3wd8AyibVX1eUBkpiftT5Kst4Uz&_nc_ohc=P1CZoEnVllcAX9bxwEf&_nc_ht=scontent-yyz1-1.xx&oh=00_AfC9Rv8jbdVcS_vyD8SyNnJazJOrQfxVZJjSyC1gmXaB3w&oe=65740EE0"
+    ],
+    [
+      "Mia X Ally - The Devil Went Down to Georgia Tour (Montreal)",
+      "TER, JAN 9, 2024 AT 7:00 PM EST",
+      "Electric Foufounes · Montreal, Quebec",
+      "63 interested parties · 7 will attend",
+      "https://www.facebook.com/events/1241798133161069/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/386357362_721650729991718_3923266740129715908_n.jpg?stp=c0.137.2048.978a_dst-jpg_s640x640&_nc_cat=106&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeHXHbzZW5VOp8pIq7-44_TXIjJoE5x6KlEiMmgTnHoqUetHz3eDPocLo7DaozP_2gEoiNbMMaJQt1QuZ3XOvBZr&_nc_ohc=pyqHWVBigx8AX-HTrGS&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAqUr3NaMTBA-xZhGW9QaeRKZNL3c3XmJVrOv4O0KDDBQ&oe=65755AA5"
+    ],
+    [
+      "Jed Arbour album release tour with Sunforger, Knitting and Still Kicking",
+      "FRI, 8 DEC AT 20:00 UTC-07",
+      "the Left Hemisphere",
+      "47 interested parties · 21 will attend",
+      "https://www.facebook.com/events/1028670781709855/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/406630544_872425214885817_1689687113248091617_n.jpg?stp=c0.163.640.306a_dst-jpg_p640x640&_nc_cat=104&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEjO43LV2UAaYd60wSyI3_aFZaHpXz8EwAVloelfPwTAHnfPXz40bFSJHc6HuFcU2pyitm0T5zHrce3W7fJACVd&_nc_ohc=2TqhNG1Sa1QAX9JQ_Ux&_nc_ht=scontent-yyz1-1.xx&oh=00_AfA1jb9q6mqqCjUKMRBB3kWNzdpYGZIXZ2RwveA_j4Rn8Q&oe=65745E1C"
+    ],
+    [
+      "Half Moon Run Tickets Montreal Quebec Canada MTelus",
+      "WHO, 14 FROM FIRST TO 8:00 PM EST",
+      "MTELUS · Montreal, Quebec",
+      "26 interested parties · 3 will attend",
+      "https://www.facebook.com/events/842957373888352/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/367009845_766681195461616_8772618391778250332_n.jpg?stp=c0.18.1200.573a_dst-jpg_s640x640&_nc_cat=111&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeHC7FVo07_gOFcv1-OQ3OhCAtKyRZ14wMYC0rJFnXjAxnHDAqV0WjmatlhTcruwr5TRoWyQJy4FFIi4rO3A7v_S&_nc_ohc=VcImp_6UE9wAX94EXPs&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDTrq2VggcHVBI-WfI1PCFqIBmWJDn2n1QPSzUzKfcVKA&oe=657430E3"
+    ],
+    [
+      "CRLT Alumni Hollyday Hangout 2023",
+      "SUN, DEC 17 AT 11:00 EST",
+      "Dawson College",
+      "41 interested parties · 22 will attend",
+      "https://www.facebook.com/events/694743239301349/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/402140069_708816951276302_1559172916827796983_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=111&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEUtZc2_SL01o6UW6FEPrvioIiBz1aGNgigiIHPVoY2CDehUg5TWPxvqPR270ZsReXwtTWJGdvtMDEfYZhwmNOy&_nc_ohc=sopQdH2O3e0AX-8KQwx&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBkJTbCqQR0YZoj4q2m5ad_IoY0YynXAVWr-O_vRyBxXQ&oe=6573F5FA"
+    ],
+    [
+      "Holiday Book Giveaway",
+      "FRI, DEC 15 AT 1:00 PM EST",
+      "Quebec Writers' Federation · Westmount, Quebec",
+      "26 interested parties · 7 will attend",
+      "https://www.facebook.com/events/887213169273045/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/407000002_742724337975452_3736232508630060163_n.jpg?stp=c0.5.640.305a_dst-jpg_p320x320&_nc_cat=107&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEForb_UCcrV00uCrbXH1lGQHbsgy5VTlVAduyDLlVOVZgQ33bDsXrhmCZW8wUT1ZaLjtst1S_dUHti0BrIgEfp&_nc_ohc=o63GhuqoBOIAX-ufq1f&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCFhUihLWjtkLKYtVaPJWy-vi3LXQ6N1PCGRk2FiF8aIw&oe=65740BA4"
+    ],
+    [
+      "McHacks 11",
+      "SAT, JAN 27, 2024 TO JAN 28, 2024",
+      "McGill University · Montreal, Quebec",
+      "14 interested · 12 will attend",
+      "https://www.facebook.com/events/169846046155130/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/402136216_733303165509487_1466652340386135671_n.jpg?stp=c0.29.1921.917a_dst-jpg_s640x640&_nc_cat=111&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeGYajdilF3zYV00Xlbk5Z3JSLO6qe41otdIs7qp7jWi1yklWV8B_NoKdhD6ybAGIGqDyJnZ_Tfjapk0osWyy962&_nc_ohc=d01T-zxF25EAX9MGOyh&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBcOKBm5lFjuXXD-j9Cd-XBqbFyZiYUh8SqKFKhTF3oDg&oe=6573A5D4"
+    ],
+    [
+      "Antigonick at the Monument National",
+      "TUE, DEC 12 AT 7:30 PM EST",
+      "Monument-National · Montreal, Quebec",
+      "12 interested parties · 6 will attend",
+      "https://www.facebook.com/events/201836902967998/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/405384932_945464240400228_3432525675518171359_n.jpg?stp=c0.58.640.305a_dst-jpg_p480x480&_nc_cat=104&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeFVGw_1Lc95S9035pwlgn6P6bj1Ji9IEajpuPUmL0gRqJ2Az7wz5yRZVnHC4xhZZ6YNK3Qq3NyrzMtdBpOV0Jsg&_nc_ohc=XI5jS0JxK8sAX-qDnCM&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDcseZHx9L2RuipfUiOHvMlw5dWU1cRVczrxCHKyJIlVg&oe=65751492"
+    ],
+    [
+      "My Magic Moment- How I Fell In Love with Broadway. A Cabaret.",
+      "FRI, DEC 15 TO DEC 16",
+      "Saint-Houblon",
+      "37 interested parties · 16 will attend",
+      "https://www.facebook.com/events/232379279862791/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/399373815_825078756290050_6300460453463032059_n.jpg?stp=c0.110.640.306a_dst-jpg_p640x640&_nc_cat=106&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeGsOYg68XSszoXSAOVVitTf_OolsouYUnX86iWyi5hSdfPQ19O4ze3KLmHWx-IcbHfny1IxMOMGUrJOHRZBNbEg&_nc_ohc=qI_m9p1D-bgAX9rKaht&_nc_ht=scontent-yyz1-1.xx&oh=00_AfC-Yj_p5nJUtIRfna2XHVEZ6e1rwde6d_DbDA6k_CCjyQ&oe=6574D0DB"
+    ],
+    [
+      "DOOMSDAY NIGHTMARE 2024: INSADE, HAKAPIK, SCORBUT @ THE TRAXIDE",
+      "SEX, JAN 5, 2024 AT 9:00 PM EST",
+      "The TraXide",
+      "62 interested parties · 13 will attend",
+      "https://www.facebook.com/events/346161764658419/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/402174148_930002578562344_1646380163227523626_n.jpg?stp=c0.181.640.305a_dst-jpg_p640x640&_nc_cat=108&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeHnos12AjCxVIVL8H7ykcgIHq5l6SQCtSEermXpJAK1ISJ72DvN8npHtJjkCCmtVmYR6BgcF7ZVrwi7Sdcv3evr&_nc_ohc=GF6ppig4FXwAX-D6SLv&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBxlNiJNnDGdfxVzXp11KSZLrHOiE_d6egUqjqszkYw6Q&oe=65740DFE"
+    ],
+    [
+      "Meshuggah, In Flames & Whitechapel At Place Bell - Laval, QC",
+      "SAT 16 DEC AT 18:30 UTC+05:30",
+      "Place Bell · Laval, Quebec",
+      "161 interested parties · 50 will attend",
+      "https://www.facebook.com/events/793820268958318/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/361592625_657255396421738_5776471367202595437_n.jpg?stp=c0.39.621.296a_dst-jpg_p552x414&_nc_cat=104&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeHjdImu5PvL1dZmDD4bRNS321CD-VMqrnXbUIP5UyqudWq-FY3Q6b_U8BjzSB2Zhc-2FO3pOG2V522FLyrelbUd&_nc_ohc=YNQOGNH6B4cAX_6TDFr&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBe0xkNlj1r4w4syihgqyQUaeg1uoMy3ZCMx5x8I3uSag&oe=6574F320"
+    ],
+    [
+      "DEBASEMENT XXXmas Edition",
+      "SAT, DEC 23 AT 10:00 PM EST",
+      "Cabaret Berlin · Montreal, Quebec",
+      "59 interested parties · 8 will attend",
+      "https://www.facebook.com/events/880399160014157/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/404979744_338904588787411_7915684016789910305_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=104&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeH14pNZPROkofe4HnZbitd6UuDD8jsyEHpS4MPyOzIQen6s-mdTUBMBeEldVOBmpXOIhjldqNOkfGfayXQyIYRr&_nc_ohc=QKLYugF-I5wAX83GmsO&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDSJLnTWWCZj5wWxYO3taL50uD8xnrs8VTl8mLCx7zmBg&oe=65751A50"
+    ],
+    [
+      "BBAM! Premiere: Mutiny In Heaven (Nick Cave & The Birthday Party)",
+      "WHO, 14 FROM FIRST TO 7:00 PM EST",
+      "BBAM! Gallery / galerie bbam",
+      "32 interested parties · 4 will attend",
+      "https://www.facebook.com/events/373980385079879/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/407044892_925715638983790_1868821423328840913_n.jpg?stp=c55.0.620.296a_dst-jpg_p526x296&_nc_cat=100&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEWbR6HIw72bUZ4SicL1RZ8jZQrYoatEmmNlCtihq0SaYcpbV1jqvS5d5QPxqqS_kh91qSZV7U0j05IhLAi5x9X&_nc_ohc=2IORZqbBWXMAX-u1Mcq&_nc_ht=scontent-yyz1-1.xx&oh=00_AfAGBeEiBHBMMOEU4ABhSbqgO1RcjopiN-JcKXuaMpHzvw&oe=6574AE49"
+    ],
+    [
+      "Old Montreal Thursday Night Stand-Up Comedy Show",
+      "WHO, 7 FROM FIRST TO 8:30 PM EST",
+      "Pub St-Paul",
+      "1 go",
+      "https://www.facebook.com/events/666133262143592/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/381021156_164690326686515_5796647539834677133_n.jpg?stp=c0.181.640.305a_cp6_dst-jpg_p640x640&_nc_cat=106&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeFR7rPGeWFE47u1s_CjYM1pSMR6qmmYIXpIxHqqaZghembU2jnoRMPSu2Ofj5BK4Qq3JZpHeB1HWWme9zylEcMy&_nc_ohc=aaIakDb0mnQAX-77ZMj&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBhL5Go98DHAB2S-QWlhbBHgcWNGBfbNHxTNP6IIoMl2Q&oe=65750D3F"
+    ],
+    [
+      "Dance Group for Beginner & Intermedaite at Club Atwater",
+      "TUE, DEC 12 AT 06:00 EST",
+      "Club Atwater",
+      "1 interested · 1 will attend",
+      "https://www.facebook.com/events/801386715016144/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/387197697_812455444214996_5430332095466199298_n.jpg?stp=c0.18.622.296a_dst-jpg_p235x350&_nc_cat=101&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeGzQKCB6YtDFmIZUPd3Q9zsJjyaMPa-mJ8mPJow9r6Yn_qOjjL2nnmyixX7hZEKhXfqqzrD73vAfDZTxIoSzP4y&_nc_ohc=V_5TpeYXxqkAX_Kyuyt&_nc_ht=scontent-yyz1-1.xx&oh=00_AfCcRSat_8UYIC1JvZ6qQsExbCC4gamP27tXhxRgESNJnQ&oe=65755EEC"
+    ],
+    [
+      "McGill IV",
+      "SEX, MARCH 1, 2024 TO MARCH 3, 2024",
+      "McGill University",
+      "178 interested parties · 19 will attend",
+      "https://www.facebook.com/events/305324165450003/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/380280050_1059149545527883_490545272052780378_n.jpg?stp=c0.18.617.295a_dst-jpg_p235x350&_nc_cat=109&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeFiA2TXwxIzetQW1If33mzVFuRMtUJE_MkW5Ey1QkT8yV5u2wkEa58AIcwhKx3sAuYX8epIyJ5dNcFsIFQt_GRk&_nc_ohc=MZH9KtRZkioAX-3imnF&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBI0Q1LR_zHsNLDaUUiybz3zWM95XhbOK0KooZ9pXppLg&oe=65740BB4"
+    ],
+    [
+      "Corporate Law Showcase: A Day of Case Studies",
+      "SAT JAN 13, 2024 AT 9:30 AM EST",
+      "McGill University Faculty of Law",
+      "21 interested parties · 11 will attend",
+      "https://www.facebook.com/events/1001058847647269/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/404376722_866172558845000_718620113946633115_n.jpg?stp=c0.356.640.306a_dst-jpg_p640x640&_nc_cat=104&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeFFiCMuXtUJZD_ACWx-wN__Na13O6MJ5zI1rXc7ownnMmTg7oPx7njoxQsp0tLgFcTbUXtE9BQ31xVFI3EytJ0X&_nc_ohc=djn_mStsZuAAX8WOfZW&_nc_ht=scontent-yyz1-1.xx&oh=00_AfBRP5AyU1aL_R0yZjgpQTjpYDrio5fnj4W4ljbC6wKtJw&oe=6573A593"
+    ],
+    [
+      "17/02 - Forró de Mané - musique brésilienne à Montréal",
+      "SAT FEB 17, 2024 AT 8:00 PM",
+      "The Underground · Montreal, Quebec",
+      "18 interested parties · 3 will attend",
+      "https://www.facebook.com/events/1829310877472293/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/400651325_245087351899157_3331774448562396168_n.jpg?stp=c0.39.619.296a_dst-jpg_p552x414&_nc_cat=110&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeGuMHyHzYecPIMGFunkVJqBHHYP1TrU7q8cdg_VOtTur4ejxjFB8aVKJTVheJT9a__MPxMAePMxpnRijXCD4kG9&_nc_ohc=D1ePp1PPU4AAX_UADqx&_nc_ht=scontent-yyz1-1.xx&oh=00_AfA1zAzFqCTBoYkLAXyTHNru6-8qD5qwpk5Yu6ji_360jA&oe=65745CA9"
+    ],
+    [
+      "Les Grands Ballets: The Nutcracker Tickets Montreal QC Canada Salle Wilfrid-Pelletier Place Des Arts",
+      "WHO, 14 FROM FIRST TO 7:30 PM PST",
+      "Salle Wilfrid-Pelletier",
+      "5 interested parties · 2 will attend",
+      "https://www.facebook.com/events/356920810328013/?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22discovery_top_tab%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D",
+      "https://scontent-yyz1-1.xx.fbcdn.net/v/t39.30808-6/404961043_839431241519944_7700030581102586779_n.jpg?stp=c0.18.1200.573a_dst-jpg_s640x640&_nc_cat=111&ccb=1-7&_nc_sid=d8d9c5&_nc_eui2=AeEUsc8LrdT1CW3RZE4CG0Vt6N2rR_DL6Dro3atH8MvoOhE_Ht6XgYTm1EqzR2E_kU1rStbelnBQCq8aZGgLzEZu&_nc_ohc=pnsizvcfoTMAX-clLq2&_nc_ht=scontent-yyz1-1.xx&oh=00_AfDTOeEi3B1Jo8HWUgf16cl5L57zZdQIFZcYjWAh_qmzwg&oe=6573C9C0"
+    ]
+  ]
+}

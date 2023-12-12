@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:rest_api/event-home.dart';
 import 'package:rest_api/home.dart';
 
 
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      home: HomeScreen(),
+      home: EventScreen(),
     );
   }
 }

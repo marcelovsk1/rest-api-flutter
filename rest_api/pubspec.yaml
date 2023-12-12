@@ -16,6 +16,7 @@ dependencies:
   http: ^0.13.3
   cupertino_icons: ^1.0.2
   http_methods: ^1.1.1
+  flutter/services.dart:
 
 
 dev_dependencies:
@@ -26,6 +27,7 @@ dev_dependencies:
 
 
 flutter:
-
+  assets:
+    - assets/facebook.json
 
   uses-material-design: true
