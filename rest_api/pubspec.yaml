@@ -3,12 +3,10 @@ description: "A new Flutter project."
 
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
-
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.2.2 <4.0.0'
-
+  sdk: '>=2.17.0 <3.0.0'  # Atualize a versão mínima do SDK para 2.17.0 ou superior
 
 dependencies:
   flutter:
@@ -16,8 +14,6 @@ dependencies:
   http: ^0.13.3
   cupertino_icons: ^1.0.2
   http_methods: ^1.1.1
-  flutter/services.dart:
-
 
 dev_dependencies:
   flutter_test:
@@ -25,9 +21,6 @@ dev_dependencies:
 
   flutter_lints: ^2.0.0
 
-
 flutter:
-  assets:
-    - assets/facebook.json
 
   uses-material-design: true
