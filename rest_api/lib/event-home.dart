@@ -11,7 +11,7 @@ class EventScreen extends StatefulWidget {
 }
 
 class _EventScreenState extends State<EventScreen> {
-  List<dynamic> users = [];
+  List<dynamic> events = [];
 
   @override
   Widget build(BuildContext context) {
@@ -20,18 +20,20 @@ class _EventScreenState extends State<EventScreen> {
         title: const Text('Rest API Call')
       ),
       body: ListView.builder(
-        itemCount: users.length,
+        itemCount: events.length,
         itemBuilder: (context,index){
-          if (users.isNotEmpty) {
-          final user = users[index];
-          final name = user['name'];
-          final email = user['email'];
+          if (events.isNotEmpty) {
+          final event = events[index];
+          final title = event['title'];
+          final date = event['date'];
+          final location = event['location'];
+          final people_interested = event ['people interested'];
           return ListTile(
            leading: CircleAvatar(
             child: Text('${index + 1}'),
            ),
-           title: Text(name.toString()),
-           subtitle: Text(email),
+           title: Text(title.toString()),
+           subtitle: Text(date),
           );
           } else {
             return ListTile(
@@ -48,13 +50,13 @@ class _EventScreenState extends State<EventScreen> {
 
   Future<void> fetchEvents() async {
     print('fetchEvents called');
-    const url = 'https://randomuser.me/api/?results=20';
+    const url = 'http://127.0.0.1:5500/APIs/Facebook_Events/facebook.json';
     final uri = Uri.parse(url);
     final response = await http.get(uri);
     final body = response.body;
     final json = jsonDecode(body);
     setState(() {
-      users = json['results'];
+      events = json['results'];
     });
     print('fetchEvents completed');
   }
