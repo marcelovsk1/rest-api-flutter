@@ -11,13 +11,21 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
-  List<dynamic> events = [];
+  List<dynamic> users = [];
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
         title: const Text('Rest API Call')
+      ),
+      body: ListView.builder(itemBuilder: (context,index){
+          final user = users[index];
+          final email = user['email'];
+          return ListTile(
+            title: Text(email),
+          );
+        },
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: fetchEvents,
@@ -27,9 +35,8 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Future<void> fetchEvents() async {
     print('fetchEvents called');
-    const url = 'http://127.0.0.1:5500/APIs/Facebook_Events/facebook.json';
+    const url = 'https://randomuser.me/api/?results=11';
     final uri = Uri.parse(url);
-    http.get(uri);
     final response = await http.get(uri);
     final body = response.body;
     final json = jsonDecode(body);
