@@ -22,6 +22,7 @@ class _HomeScreenState extends State<HomeScreen> {
       body: ListView.builder(
         itemCount: users.length,
         itemBuilder: (context,index){
+          if (users.isNotEmpty) {
           final user = users[index];
           final name = user['name'];
           final email = user['email'];
@@ -32,6 +33,11 @@ class _HomeScreenState extends State<HomeScreen> {
            title: Text(name.toString()),
            subtitle: Text(email),
           );
+          } else {
+            return ListTile(
+              title: Text('No users available'),
+            );
+        };
         },
       ),
       floatingActionButton: FloatingActionButton(
@@ -42,7 +48,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Future<void> fetchEvents() async {
     print('fetchEvents called');
-    const url = 'https://randomuser.me/api/?results=10';
+    const url = 'https://randomuser.me/api/?results=20';
     final uri = Uri.parse(url);
     final response = await http.get(uri);
     final body = response.body;
