@@ -23,9 +23,14 @@ class _HomeScreenState extends State<HomeScreen> {
         itemCount: users.length,
         itemBuilder: (context,index){
           final user = users[index];
+          final name = user['name'];
           final email = user['email'];
           return ListTile(
-            title: Text(email),
+           leading: CircleAvatar(
+            child: Text('${index + 1}'),
+           ),
+           title: Text(name.toString()),
+           subtitle: Text(email),
           );
         },
       ),
@@ -37,7 +42,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Future<void> fetchEvents() async {
     print('fetchEvents called');
-    const url = 'https://randomuser.me/api/?results=11';
+    const url = 'https://randomuser.me/api/?results=10';
     final uri = Uri.parse(url);
     final response = await http.get(uri);
     final body = response.body;
