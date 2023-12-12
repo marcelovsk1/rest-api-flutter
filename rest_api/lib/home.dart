@@ -19,7 +19,9 @@ class _HomeScreenState extends State<HomeScreen> {
       appBar: AppBar(
         title: const Text('Rest API Call')
       ),
-      body: ListView.builder(itemBuilder: (context,index){
+      body: ListView.builder(
+        itemCount: users.length,
+        itemBuilder: (context,index){
           final user = users[index];
           final email = user['email'];
           return ListTile(
@@ -41,7 +43,7 @@ class _HomeScreenState extends State<HomeScreen> {
     final body = response.body;
     final json = jsonDecode(body);
     setState(() {
-      events = json['results'];
+      users = json['results'];
     });
     print('fetchEvents completed');
   }
