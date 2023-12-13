@@ -1,0 +1,370 @@
+{
+  "range": "'Página1'!A1:Z1000",
+  "majorDimension": "ROWS",
+  "values": [
+    [
+      "Name",
+      "Date",
+      "Location",
+      "Image",
+      "Link"
+    ],
+    [
+      "Groove Gremlins: INDUSTRIAL THROTTLING",
+      "Wed, 13 Dec",
+      "Barbossa",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vMWRlNGFmMGI2YWI4N2FkMThkNjgzN2QyYjgwYmQ2N2NjODk3MmNlMy5qcGc=",
+      "https://ra.co/events/1824973"
+    ],
+    [
+      "DNB PROJKT #4 // MELOW x CATG.IRL1 x FLOWHER x SHOTGUN SOUND x K.WA",
+      "Thu, 14 Dec",
+      "Bar La Shop",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vYTM5ZmU1MDg4MGU5NjYyMzBlMTIzYmI5YjhjNDRiZjQxN2Y2YjY3MC5qcGc=",
+      "https://ra.co/events/1824245"
+    ],
+    [
+      "Arder X Truncate",
+      "Fri, 15 Dec",
+      "ESC",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vMTIyMzQwYjBkZGJhODI5ODBjMzMzYzQ5MmZiMjg5MjVmZGJjYzJiNS5wbmc=",
+      "https://ra.co/events/1805085"
+    ],
+    [
+      "Pascale Project + Amelia Holt [NYC]",
+      "Sat, 16 Dec",
+      "Système",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vNjc2MjIzMjc5YzJhNzQ2ODIyNDQwZGRmNzE5MDQ3MDgzN2EyNjA0Mi5wbmc=",
+      "https://ra.co/events/1813001"
+    ],
+    [
+      "DIMANCHES POLAIRES #2: AFTER PARTY OFFICIEL",
+      "Sun, 17 Dec",
+      "Union Française de Montréal",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vNTI0MzFjZGZjOTkzZTg2YmQ1YzhkY2MxMjU4MzI2YzI0Zjk4Zjc3Yi5qcGc=",
+      "https://ra.co/events/1826442"
+    ],
+    [
+      "The Nightmare Before Christmas: Toy Drive & Fundraiser",
+      "Tue, 19 Dec",
+      "Francesco's Montreal",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vYTIyMTRiNmQ2OTc3YzhiNTk0NjJmNDEyZjc1NTNiMGRlNDdlNmFkOC5wbmc=",
+      "https://ra.co/events/1814899"
+    ],
+    [
+      "Studio Events presents: Frostbite - Holiday Event",
+      "Wed, 20 Dec",
+      "Francesco's Montreal",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vMGRhMjAwZjQ2NGEzM2EyNzI2NThjMGQ4YWNhOWQxMmI5Zjk3M2IxMi5qcGc=",
+      "https://ra.co/events/1820475"
+    ],
+    [
+      "Discorinho Extravaganza: Third Edition with Bolarinho, Moses Belanger, Arielle Roberge, Ev",
+      "Thu, 21 Dec",
+      "Francesco's Montreal",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vZmQzNjFlNjBkZWQ3NWQwNmM0Yzg5YjAwMmU1YmMxMzQyNjRiZGUyMi5wbmc=",
+      "https://ra.co/events/1820045"
+    ],
+    [
+      "ANII - The Element - Toto Chiavetta",
+      "Fri, 22 Dec",
+      "Stereo",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vYzVmOTY3OWIyMDM3M2E1Mzk1Y2I0MTBlMWRjODBkMWJjOGYwOTM1Ny5wbmc=",
+      "https://ra.co/events/1812270"
+    ],
+    [
+      "Ostrich (All Night Long)",
+      "Sat, 23 Dec",
+      "Stereo",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vYzMzZjFjMTBhMGNkYjJiZDA0N2M0ZWE5ZjVhZmRkYWYwMzg0Yzg2MS5wbmc=",
+      "https://ra.co/events/1812271"
+    ],
+    [
+      "Sound Moment presents Jino K vs Bezze Barra",
+      "Thu, 28 Dec",
+      "Salon Daomé, Le",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vN2E0NWUzYWYzYTExNTUzYTcxNzRlMDVmYTk1NzdlYTYzMDlmMTNjNi5qcGc=",
+      "https://ra.co/events/1814830"
+    ],
+    [
+      "SIM + Ana Roman",
+      "Fri, 29 Dec",
+      "Système",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vYmQ4OGYwMzQ0ZjliMWI1NzdhZTc4YjBjYmFiNDZlZWM5ZjQ3Yzg4OS5wbmc=",
+      "https://ra.co/events/1818556"
+    ],
+    [
+      "SIM & ANA ROMAN",
+      "Sat, 30 Dec",
+      "Nouvel Établissement",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vOTk0YTFiYjQ5YmM1NmY1OTE4Y2IyMzI0MjZiODE2MzMwZmJiOWJmMS5qcGc=",
+      "https://ra.co/events/1814400"
+    ],
+    [
+      "Fofo presents: 2024. Fraud Perry [Live], KidCrayola, Samito, YUNG PAIN [Hybrid]",
+      "Sun, 31 Dec",
+      "Système",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vZDBmYzUxOWExYzI5ZmM0OWRkYjg0MTUyOTc3YzA5NjUxYmFiZWFiNC5wbmc=",
+      "https://ra.co/events/1826974"
+    ],
+    [
+      "Day 1: Pablo Ceballos (All Night Long)",
+      "Mon, 1 Jan 2024",
+      "Stereo",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vY2RmNTM3YWU5YjhhZTA3ODYyN2VhNDU5Yzc0YmYwYjNhMzBkZDliMC5wbmc=",
+      "https://ra.co/events/1812273"
+    ],
+    [
+      "Spencer Brown - Montréal",
+      "Sat, 6 Jan 2024",
+      "Newspeak",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vZDZiYjViYWY3ZmMwYzM2MjVkYjg1MGZjMmJmZGY2YmJhNDQ5MjRkOC5wbmc=",
+      "https://ra.co/events/1786534"
+    ],
+    [
+      "NOUVELLE DATE | PLAID [LIVE] au Théâtre Fairmount",
+      "Tue, 9 Jan 2024",
+      "Fairmount Theatre",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vYjkzOGFlOTM2OTI0NGEwMjBmZWFlYTUxZDliODJhYWRkNzQ2MzhkMC5qcGc=",
+      "https://ra.co/events/1807602"
+    ],
+    [
+      "DARK AREA - 2e édition",
+      "Sat, 13 Jan 2024",
+      "Bar La Shop",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vOTEzMmY1YzhjYzlkOWMxYmNjNzYyZmMxNzM4NDlhYzM1NDhmZjI4Ny5wbmc=",
+      "https://ra.co/events/1806544"
+    ],
+    [
+      "Igloofest MTL #1: Marc Rebillet, Partiboi69 / La Rama",
+      "Thu, 18 Jan 2024",
+      "Igloofest",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vMjU5N2UyZTI4MGVlNTA2Y2I4ZDc2ZTMxMjkyZjBmMzk0NGM0Zjk1MS5wbmc=",
+      "https://ra.co/events/1802581"
+    ],
+    [
+      "Igloofest MTL #1: Marc Rebillet, Partiboi69 / La Rama",
+      "Thu, 18 Jan 2024",
+      "Igloofest",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vMjU5N2UyZTI4MGVlNTA2Y2I4ZDc2ZTMxMjkyZjBmMzk0NGM0Zjk1MS5wbmc=",
+      "https://ra.co/events/1802581"
+    ],
+    [
+      "Igloofest MTL #3: NTO (Live), Joachim Pastor (Live) / House Of Youth",
+      "Sat, 20 Jan 2024",
+      "Igloofest",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vMTc5ZTlkMzRhZDgyYjU3MDI1YzhhNzI5ZTMxOTQzNDNlZGZiNTYyNy5wbmc=",
+      "https://ra.co/events/1802605"
+    ],
+    [
+      "Igloofest MTL#4: Stephan Bodzin (Live), Glowal",
+      "Thu, 25 Jan 2024",
+      "Igloofest",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vYTdlZWFkM2I2MDMzMjRlMzU3MGE4ZTk3ZDU5MzNlY2NmYzE4ZGJlYS5wbmc=",
+      "https://ra.co/events/1802608"
+    ],
+    [
+      "Igloofest MTL #5: Higher Ground: Diplo, Floorplan, DJ Holographic / Pep Rally: Chippy Nonstop",
+      "Fri, 26 Jan 2024",
+      "Igloofest",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vM2Q1YmI5N2FkMjRjMDg1YmIyODQwYWRlMmFjOGQ2NjNlYmQzOGIyMC5wbmc=",
+      "https://ra.co/events/1802615"
+    ],
+    [
+      "Igloofest MTL #6: Armin van Buuren, AVIRA / sksksks: Himera, Petal Supply",
+      "Sat, 27 Jan 2024",
+      "Igloofest",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vYjlmZGU1OTgzOWMxMTBlM2U2N2UxNjkzMTE2N2YwNjdhNmJiZGRjNC5wbmc=",
+      "https://ra.co/events/1802622"
+    ],
+    [
+      "Armin Van Buuren - Montréal",
+      "Mon, 29 Jan 2024",
+      "New City Gas",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vMzA2YTUyZTE0MzNhNGJkMDBhZGEwZDliMDUwYjY1ZDhiOTI4NTRiNC5wbmc=",
+      "https://ra.co/events/1827056"
+    ],
+    [
+      "Igloofest MTL #7: 100 gecs (DJ set), Surf Gang (DJ set)",
+      "Thu, 1 Feb 2024",
+      "Igloofest",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vYzE3ODZlODI5ZTZiZTUyZTUxMjg4ZWViNWQyNjc0ZjFkMDdhNTM4My5wbmc=",
+      "https://ra.co/events/1802629"
+    ],
+    [
+      "OCTOV with Cera Khin",
+      "Fri, 2 Feb 2024",
+      "Entrepôts Dominion, Les",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vOWZiMDNlNjE4YTU2YWNhNWRmYzY5MWM1YTU1ZjA2NTg0N2QxYjY4Zi5qcGc=",
+      "https://ra.co/events/1817438"
+    ],
+    [
+      "Igloofest MTL #9: This Never Happened: Lane 8, Sultan + Shepard, EMBRZ, Ashibah / Floral Nights",
+      "Sat, 3 Feb 2024",
+      "Igloofest",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vMWY5OWQ1YWJmMTI5NzU0MGQyNmViYTEyZGQ0MzAyOGNjNTk0YzJmZS5wbmc=",
+      "https://ra.co/events/1802638"
+    ],
+    [
+      "Igloofest MTL #10: The Blaze (DJ set), Oden & Fatzo (Live)",
+      "Thu, 8 Feb 2024",
+      "Igloofest",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vNjkyZTMxZmFjYTkxOTgwMmYyYzJlYWE0YTNkODhmM2U5NjQ4NjgxMS5wbmc=",
+      "https://ra.co/events/1802643"
+    ],
+    [
+      "Mau P",
+      "Fri, 9 Feb 2024",
+      "New City Gas",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vYWRmYjljYjU0MTlkZDllODJjODgyMDE2MmZlY2M5ODA3NDc2ZjY1MC5wbmc=",
+      "https://ra.co/events/1793241"
+    ],
+    [
+      "Igloofest MTL #12: Miss Monique, Hidden Empire / Afrotonik",
+      "Sat, 10 Feb 2024",
+      "Igloofest",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vNmI5ZjY3ZjkzOGY0ZGM0NjY4M2RhOTA0Y2ZiZTg3YjEzOWJlNmIzMC5wbmc=",
+      "https://ra.co/events/1802665"
+    ],
+    [
+      "Barry Can't Swim - Montréal",
+      "Sat, 17 Feb 2024",
+      "Fairmount Theatre",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vNTIwOWM0NzE3Y2IwMTZjZWU4ODhlMTlhZDcwNGUxMTcyYjhmMTRjYi5wbmc=",
+      "https://ra.co/events/1796823"
+    ],
+    [
+      "Ekkstacy - Montréal",
+      "Tue, 20 Feb 2024",
+      "Fairmount Theatre",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vMzc1NWMwOGMwYTIxZDU5MGRkOGIxZmVhZmVhMDg0NzI4OTUyNjdmNi5wbmc=",
+      "https://ra.co/events/1797841"
+    ],
+    [
+      "Mr Tout Le Monde - Montréal",
+      "Fri, 23 Feb 2024",
+      "Fairmount Theatre",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vZTZhODVhN2ZmNzNmNjg0ZjcxMTBkNTM5Yzk4NDZkM2RmNzFlZDgyNi5wbmc=",
+      "https://ra.co/events/1819942"
+    ],
+    [
+      "Lost Frequencies - All Stand Together Tour",
+      "Sat, 24 Feb 2024",
+      "New City Gas",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vOWRhMjhkNjdmZjRjZmMzYjJkNWI4MjY4YmU1OGQ4NzJlOGU0NTgxZS5wbmc=",
+      "https://ra.co/events/1809101"
+    ],
+    [
+      "No Police invites",
+      "Fri, 1 Mar 2024",
+      "",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vZTNkYTY4NzBmMWJiNTI5NDgzNjZmNjg4NDQyNDM2ZmY0MWI0Nzg3ZS5wbmc=",
+      "https://ra.co/events/1824130"
+    ],
+    [
+      "NUSHA",
+      "Sat, 2 Mar 2024",
+      "",
+      "",
+      "https://ra.co/events/1770943"
+    ],
+    [
+      "DJ HEARTSTRING - Montréal",
+      "Thu, 7 Mar 2024",
+      "Newspeak",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vMDEwYzkwMDMyNGNmZjhlZGYwZjc1NGRkYjY1M2Y3NzcyZGRkMGYxYy5wbmc=",
+      "https://ra.co/events/1823285"
+    ],
+    [
+      "Sango - Montréal",
+      "Fri, 8 Mar 2024",
+      "Société des arts technologiques",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vNGJmNTllODEyOTM0OGM0NDNiODI2NTc1MDgwZmEyMGJjZGFiY2QwNy5wbmc=",
+      "https://ra.co/events/1810713"
+    ],
+    [
+      "COBRAH - Montréal",
+      "Tue, 12 Mar 2024",
+      "Société des arts technologiques",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vN2RmNjEwZDM0Y2EyNzc5MWEzM2U2YjI2NTkzMDA0NzIzMGQ3OTM3YS5wbmc=",
+      "https://ra.co/events/1791323"
+    ],
+    [
+      "KSHMR, Will Sparks, Waves - North America Tour 2024",
+      "Fri, 15 Mar 2024",
+      "New City Gas",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vYmYxM2MyODQzZWU4NDAxYmY0ZjQ3ODQ0ODQwN2NjM2QyNmU1ZmUwNS5wbmc=",
+      "https://ra.co/events/1815090"
+    ],
+    [
+      "Trance Unity Rave 2024",
+      "Sat, 16 Mar 2024",
+      "Sainte-Catherine Hall",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vZmQ2MTFlMzFjZDYyYjQ5MmJkOGU1YzEzOThhN2NmNWJiODhlODM1ZS5qcGc=",
+      "https://ra.co/events/1817751"
+    ],
+    [
+      "Jesse Mac Cormack - Montréal",
+      "Thu, 28 Mar 2024",
+      "Bar Le Ritz PDB",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vMzFmYjJiZGNkNjk4NDU0ODUyZmQ3MTljMzQ2MmY5N2JhMDc4M2Y2ZC5wbmc=",
+      "https://ra.co/events/1823933"
+    ],
+    [
+      "OCTOV with SPFDJ",
+      "Fri, 12 Apr 2024",
+      "Entrepôts Dominion, Les",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vNmUxNDQ1MDI0NDAyNzJlODU0MWZhYjkxOWJjZDc5NTM0OTYxODRiMy5qcGc=",
+      "https://ra.co/events/1817441"
+    ],
+    [
+      "Dr. Fresch & Habstrakt - Spring 2024 Tour",
+      "Fri, 26 Apr 2024",
+      "New City Gas",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vOWUwYjJkYjIwOTE4ZTM1OTcyYTI0NWQyNWU0NTZjNTM2ZmFhZTIzMS5wbmc=",
+      "https://ra.co/events/1810072"
+    ],
+    [
+      "Ash - Montréal",
+      "Sat, 27 Apr 2024",
+      "Société des arts technologiques",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vMmJiZDQxNWMzYmIxMDA3MjM1MTVjZGI5MzUxN2Q3MzQxYzhmMzIxNC5wbmc=",
+      "https://ra.co/events/1809896"
+    ],
+    [
+      "Cassian - Montréal",
+      "Sat, 4 May 2024",
+      "Fairmount Theatre",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vNDRiMmI4MjdiOWYxMjg1MjAyNjRmZjU4YWRhZTYxYWQyMGI0ZjAxYi5wbmc=",
+      "https://ra.co/events/1810796"
+    ],
+    [
+      "POSTPONED ✦ DISCOÑO ✦ presenta: NINA SKY x NIABI x MS BABY x SAMIA x EMPRESS",
+      "Fri, 17 May 2024",
+      "Newspeak",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vMjcyMjA5YWYyMjBkZTcyYjEyOTBkODE2NzFjYTVhZjIzZmM2NjlmOS5qcGc=",
+      "https://ra.co/events/1800448"
+    ],
+    [
+      "Block Party Bonne Famille x Club Sagacité",
+      "Sat, 7 Sep 2024",
+      "Hangar 1825",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vOWQwNGM0NmZjODZmZDM1ZGE5NTY4NGMxMmEyNmY3MzkzYzFhZThmNi5wbmc=",
+      "https://ra.co/events/1777083"
+    ],
+    [
+      "Light Asylum [USA] / Belly Hatcher [MTL] / Dj Na [MTL]",
+      "Mon, 9 Sep 2024",
+      "Foufounes Electronique",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vZDdiNmNlNDZhZjBlNDdjOGU2NmM4M2M0Y2MxYjAwMzk5YmE1OTg2OS5qcGc=",
+      "https://ra.co/events/1783665"
+    ],
+    [
+      "VIRUS v.3.0 (Montreal)",
+      "Sat, 2 Nov 2024",
+      "Newspeak",
+      "https://imgproxy.ra.co/_/quality:50/aHR0cHM6Ly9pbWFnZXMucmEuY28vY2RlNmVkZGU5YmQ4ZjNkYjM5NzkyMzFjNzQyYTBhODlhZTc4MTU1Yi5qcGc=",
+      "https://ra.co/events/1807604"
+    ]
+  ]
+}
